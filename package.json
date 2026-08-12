@@ -1,0 +1,34 @@
+{
+  "name": "playwright-automation",
+  "version": "1.0.0",
+  "description": "Unified Playwright test automation suite — Anvesha, SauceDemo, API, and practice tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "test:report": "npx playwright show-report",
+    "test:anvesha": "npx playwright test --project=anvesha",
+    "test:saucedemo": "npx playwright test --project=saucedemo",
+    "test:api": "npx playwright test --project=api",
+    "test:practice": "npx playwright test --project=practice",
+    "test:saucedemo:login": "npx playwright test --project=saucedemo tests/saucedemo/01-login.spec.js",
+    "test:saucedemo:products": "npx playwright test --project=saucedemo tests/saucedemo/02-product-browsing.spec.js",
+    "test:saucedemo:cart": "npx playwright test --project=saucedemo tests/saucedemo/03-cart.spec.js",
+    "test:saucedemo:checkout": "npx playwright test --project=saucedemo tests/saucedemo/04-checkout.spec.js",
+    "test:saucedemo:navigation": "npx playwright test --project=saucedemo tests/saucedemo/05-navigation.spec.js"
+  },
+  "keywords": ["playwright", "automation", "testing", "e2e", "api"],
+  "author": "Pranav Patil",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.0",
+    "allure-commandline": "^2.43.0",
+    "allure-playwright": "^3.10.2"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

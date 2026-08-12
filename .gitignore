@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Playwright generated
+playwright-report/
+test-results/
+blob-report/
+playwright/.cache/
+playwright/.auth/
+
+# Allure reporting
+allure-results/
+allure-report/
+
+# Environment
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
