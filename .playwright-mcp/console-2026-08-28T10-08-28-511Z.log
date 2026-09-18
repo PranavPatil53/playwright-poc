@@ -1,0 +1,12 @@
+[    3025ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://test.newbalance.co.uk/on/demandware.static/Sites-NBUK-Site/-/en_GB/v1787862977516/css/fonts/slick.woff:0
+[    3075ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://priya.uttarwar2%40newbalance.com:4uZ%28XDQsD6-X1ljd%28-%7Cz%2F9%3DiAbw3%3DR%7B%5BRPPCI%23%234@test.newbalance.co.uk/on/demandware.static/Sites-NBUK-Site/-/en_GB/v1787862977516/css/ajax-loader.gif:0
+[    3322ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://test.newbalance.co.uk/on/demandware.static/Sites-NBUK-Site/-/en_GB/v1787862977516/css/fonts/slick.ttf:0
+[    6014ms] [LOG] [] @ https://tags.tiqcdn.com/utag/newbalance/nb-uk-new/dev/utag.js:141
+[    6015ms] [LOG] No 'INSIDER' events found. @ https://tags.tiqcdn.com/utag/newbalance/nb-uk-new/dev/utag.js:141
+[   12084ms] [WARNING] The resource https://cdn-pci.optimizely.com/js/19605373403.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://priya.uttarwar2%40newbalance.com:4uZ%28XDQsD6-X1ljd%28-%7Cz%2F9%3DiAbw3%3DR%7B%5BRPPCI%23%234@test.newbalance.co.uk/:0
+[   61402ms] [LOG] [] @ https://tags.tiqcdn.com/utag/newbalance/nb-uk-new/dev/utag.js:141
+[   61403ms] [LOG] No 'INSIDER' events found. @ https://tags.tiqcdn.com/utag/newbalance/nb-uk-new/dev/utag.js:141
+[   61605ms] [LOG] [] @ https://tags.tiqcdn.com/utag/newbalance/nb-uk-new/dev/utag.js:141
+[   61605ms] [LOG] No 'INSIDER' events found. @ https://tags.tiqcdn.com/utag/newbalance/nb-uk-new/dev/utag.js:141
+[   70995ms] [INFO] Pinterest Tag Error: 'load' command was called multiple times.  Previously for tag id '%s', now for tag id '%s'. 2613016822653 2614116380174 @ https://s.pinimg.com/ct/lib/main.e47a302d.js:0
+[   72129ms] [LOG] Splunk RUM attributes {page_type: home, product_name: homepage} @ https://tags.tiqcdn.com/utag/newbalance/nb-uk-new/dev/utag.400.js?utv=ut4.51.202608250818:6

@@ -1,0 +1,586 @@
+- generic [ref=f18e2]:
+  - banner [ref=f18e3]:
+    - generic [ref=f18e4]:
+      - link "Skip to main content" [ref=f18e5] [cursor=pointer]:
+        - /url: "#maincontent"
+      - link "Skip to footer content" [ref=f18e6] [cursor=pointer]:
+        - /url: "#footercontent"
+      - link "Skip to chat content" [ref=f18e7] [cursor=pointer]:
+        - /url: "#chatcontent"
+      - generic [ref=f18e9]:
+        - link "country GB" [ref=f18e13] [cursor=pointer]:
+          - /url: /international
+          - generic [ref=f18e14]:
+            - img "country" [ref=f18e16]
+            - generic [ref=f18e17]: GB
+        - generic [ref=f18e19]:
+          - generic [ref=f18e20]:
+            - text: COVID-19 Information Center
+            - link "Read more" [ref=f18e21] [cursor=pointer]:
+              - /url: https://test.newbalance.co.uk/covid19/?ICID=BTN_HP_PB_LP_COVID_11144_MWK
+          - generic [ref=f18e22]:
+            - text: Free shipping orders $50+ & free returns
+            - link "View details" [ref=f18e23] [cursor=pointer]:
+              - /url: "#headerBanContent"
+        - region "carousel" [ref=f18e27]:
+          - text: ⏸ ▶
+          - generic [ref=f18e29]:
+            - group [ref=f18e30]:
+              - button [ref=f18e35] [cursor=pointer]:
+                - paragraph [ref=f18e36]: The 2024 TCS New York City Marathon Collection.
+                - paragraph [ref=f18e37]: Click to learn more
+            - group "slide 1" [ref=f18e38]:
+              - button [ref=f18e43] [cursor=pointer]:
+                - paragraph [ref=f18e44]: Free shipping on all orders.
+                - paragraph [ref=f18e45]: Click to learn more
+            - group [ref=f18e46]:
+              - generic [ref=f18e50]:
+                - button [ref=f18e51] [cursor=pointer]:
+                  - paragraph [ref=f18e52]: The new 1080.
+                  - paragraph [ref=f18e53]: Click to learn more
+                - link [ref=f18e54] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/men/shoes/
+                  - text: Shop now
+            - group [ref=f18e55]:
+              - generic [ref=f18e59]:
+                - button [ref=f18e60] [cursor=pointer]:
+                  - paragraph [ref=f18e61]: Get ready for your turkey trot.
+                  - paragraph [ref=f18e62]: Click to learn more
+                - link [ref=f18e63] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/men/shoes/
+                  - text: Shop running
+                - link [ref=f18e64] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/men/shoes/
+                  - text: Shop now
+            - group [ref=f18e65]:
+              - button [ref=f18e70] [cursor=pointer]:
+                - paragraph [ref=f18e71]: The 2024 TCS New York City Marathon Collection.
+                - paragraph [ref=f18e72]: Click to learn more
+            - group [ref=f18e73]:
+              - button [ref=f18e78] [cursor=pointer]:
+                - paragraph [ref=f18e79]: Free shipping on all orders.
+                - paragraph [ref=f18e80]: Click to learn more
+            - group [ref=f18e81]:
+              - generic [ref=f18e85]:
+                - button [ref=f18e86] [cursor=pointer]:
+                  - paragraph [ref=f18e87]: The new 1080.
+                  - paragraph [ref=f18e88]: Click to learn more
+                - link [ref=f18e89] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/men/shoes/
+                  - text: Shop now
+            - group [ref=f18e90]:
+              - generic [ref=f18e94]:
+                - button [ref=f18e95] [cursor=pointer]:
+                  - paragraph [ref=f18e96]: Get ready for your turkey trot.
+                  - paragraph [ref=f18e97]: Click to learn more
+                - link [ref=f18e98] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/men/shoes/
+                  - text: Shop running
+                - link [ref=f18e99] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/men/shoes/
+                  - text: Shop now
+            - group [ref=f18e100]:
+              - button [ref=f18e105] [cursor=pointer]:
+                - paragraph [ref=f18e106]: The 2024 TCS New York City Marathon Collection.
+                - paragraph [ref=f18e107]: Click to learn more
+          - list [ref=f18e108]:
+            - listitem [ref=f18e109] [cursor=pointer]:
+              - button "Go to slide 1" [ref=f18e110]: •
+            - listitem [ref=f18e112] [cursor=pointer]:
+              - button "Go to slide 2" [ref=f18e113]: •
+            - listitem [ref=f18e115] [cursor=pointer]:
+              - button "Go to slide 3" [ref=f18e116]: •
+            - listitem [ref=f18e118] [cursor=pointer]:
+              - button "Go to slide 4" [ref=f18e119]: •
+        - generic [ref=f18e122]:
+          - button [ref=f18e124] [cursor=pointer]
+          - button "Help" [ref=f18e127] [cursor=pointer]
+      - navigation [ref=f18e129]:
+        - generic [ref=f18e131]:
+          - link "New Balance Home" [ref=f18e133] [cursor=pointer]:
+            - /url: /
+            - img "New Balance" [ref=f18e134]
+          - navigation [ref=f18e140]:
+            - list [ref=f18e142]:
+              - listitem [ref=f18e143]:
+                - link "Men" [ref=f18e144] [cursor=pointer]:
+                  - /url: /men/
+              - listitem [ref=f18e145]:
+                - link "Women" [ref=f18e146] [cursor=pointer]:
+                  - /url: /women/
+              - listitem [ref=f18e147]:
+                - link "Kids" [ref=f18e148] [cursor=pointer]:
+                  - /url: /kids-1/
+              - listitem [ref=f18e149]:
+                - link "Sports" [ref=f18e150] [cursor=pointer]:
+                  - /url: /sports/
+              - listitem [ref=f18e151]:
+                - link "Outlet" [ref=f18e152] [cursor=pointer]:
+                  - /url: /outlet/
+          - generic [ref=f18e153]:
+            - button "Search" [ref=f18e155] [cursor=pointer]:
+              - img "Search" [ref=f18e156]
+            - button "My Account" [ref=f18e160] [cursor=pointer]:
+              - img "My Account" [ref=f18e161]
+            - link "Bag 0 Items" [ref=f18e166] [cursor=pointer]:
+              - /url: https://test.newbalance.co.uk/on/demandware.store/Sites-NBUK-Site/en_GB/Cart-Show
+              - img "Bag 0 Items" [ref=f18e167]
+  - main [ref=f18e169]:
+    - generic [ref=f18e172]:
+      - text: / ·
+      - generic [ref=f18e173]:
+        - generic [ref=f18e177]:
+          - button "BB9000" [ref=f18e179] [cursor=pointer]:
+            - img "BB9000" [ref=f18e181]
+          - button "BB9000" [ref=f18e183] [cursor=pointer]:
+            - img "BB9000" [ref=f18e185]
+          - generic [ref=f18e186]: Your browser does not support the video tag.
+          - button "BB9000" [ref=f18e190] [cursor=pointer]:
+            - img "BB9000" [ref=f18e192]
+          - button "BB9000" [ref=f18e194] [cursor=pointer]:
+            - img "BB9000" [ref=f18e196]
+          - button "BB9000" [ref=f18e198] [cursor=pointer]:
+            - img "BB9000" [ref=f18e200]
+        - generic [ref=f18e201]:
+          - generic [ref=f18e202]:
+            - generic [ref=f18e204]:
+              - navigation "Breadcrumb" [ref=f18e207]:
+                - list [ref=f18e208]:
+                  - listitem [ref=f18e209]:
+                    - link "Men" [ref=f18e210] [cursor=pointer]:
+                      - /url: /men/
+                  - listitem [ref=f18e211]:
+                    - text: /
+                    - link "Shoes" [ref=f18e212] [cursor=pointer]:
+                      - /url: /men/shoes/
+              - text: ·
+            - generic [ref=f18e213]:
+              - heading "BB9000" [level=1] [ref=f18e216]
+              - generic [ref=f18e217]: £129.99
+              - generic [ref=f18e230] [cursor=pointer]:
+                - button "No rating value" [ref=f18e231]
+                - button "No reviews. This action will scroll down to rate this product" [ref=f18e243]:
+                  - generic [ref=f18e244]: (0)
+          - generic [ref=f18e246]:
+            - generic [ref=f18e249]:
+              - generic [ref=f18e252]:
+                - button "Select Colour Black Emerald with Atomic Yellow" [ref=f18e253] [cursor=pointer]:
+                  - generic [ref=f18e255]: selected
+                - button "Select Colour Angora with Marine Blue" [ref=f18e256] [cursor=pointer]
+                - button "Select Colour Black with Mars Red" [ref=f18e259] [cursor=pointer]
+              - generic [ref=f18e262]:
+                - text: "Colour:"
+                - generic [ref=f18e263]: Black Emerald with Atomic Yellow
+            - generic [ref=f18e266]:
+              - generic [ref=f18e268]:
+                - heading "Size" [level=2] [ref=f18e270]
+                - link "Size Guide" [ref=f18e272] [cursor=pointer]:
+                  - /url: "#sizeChart"
+              - generic [ref=f18e275]:
+                - button "Select UK Size 3.5" [ref=f18e276] [cursor=pointer]: "3.5"
+                - button "Select UK Size 4 Out of Stock" [ref=f18e278] [cursor=pointer]: "4"
+                - button "Select UK Size 4.5 Out of Stock" [ref=f18e280] [cursor=pointer]: "4.5"
+                - button "Select UK Size 5" [ref=f18e282] [cursor=pointer]: "5"
+                - button "Select UK Size 5.5" [ref=f18e284] [cursor=pointer]: "5.5"
+                - button "Select UK Size 6" [ref=f18e286] [cursor=pointer]: "6"
+                - button "Select UK Size 6.5 Out of Stock" [ref=f18e288] [cursor=pointer]: "6.5"
+                - button "Select UK Size 7" [ref=f18e290] [cursor=pointer]: "7"
+                - button "Select UK Size 7.5 Out of Stock" [ref=f18e292] [cursor=pointer]: "7.5"
+                - button "Select UK Size 8" [ref=f18e294] [cursor=pointer]: "8"
+                - button "Select UK Size 8.5 Out of Stock" [ref=f18e296] [cursor=pointer]: "8.5"
+                - button "Select UK Size 9 Out of Stock" [ref=f18e298] [cursor=pointer]: "9"
+                - button "Select UK Size 9.5 Out of Stock" [ref=f18e300] [cursor=pointer]: "9.5"
+                - button "Select UK Size 10" [ref=f18e302] [cursor=pointer]: "10"
+                - button "Select UK Size 10.5" [ref=f18e304] [cursor=pointer]: "10.5"
+                - button "Select UK Size 11" [ref=f18e306] [cursor=pointer]: "11"
+                - button "Select UK Size 11.5 Out of Stock" [ref=f18e308] [cursor=pointer]: "11.5"
+                - button "Select UK Size 12.5" [ref=f18e310] [cursor=pointer]: "12.5"
+                - button "Select UK Size 12.5" [ref=f18e312] [cursor=pointer]: "12.5"
+                - button "Select UK Size 13.5" [ref=f18e314] [cursor=pointer]: "13.5"
+                - button "Select UK Size 14.5" [ref=f18e316] [cursor=pointer]: "14.5"
+                - button "Select UK Size 15.5" [ref=f18e318] [cursor=pointer]: "15.5"
+                - button "Select UK Size 17" [ref=f18e320] [cursor=pointer]: "17"
+                - button "Select UK Size 18 Out of Stock" [ref=f18e322] [cursor=pointer]: "18"
+                - button "Select UK Size 19 Out of Stock" [ref=f18e324] [cursor=pointer]: "19"
+                - button "Select UK Size 20" [ref=f18e326] [cursor=pointer]: "20"
+            - generic [ref=f18e328]:
+              - generic [ref=f18e330]:
+                - button "Add to Bag" [ref=f18e331] [cursor=pointer]
+                - status [ref=f18e332]
+              - generic [ref=f18e334]:
+                - generic [ref=f18e335]:
+                  - paragraph [ref=f18e336]:
+                    - text: 3 payments of
+                    - strong [ref=f18e337]: £43.33
+                    - text: at 0% interest with
+                    - generic [ref=f18e338]: Klarna
+                    - button "Check purchase power (Opens in a new window or tab)" [ref=f18e339] [cursor=pointer]: Check purchase power
+                  - paragraph [ref=f18e340]: 18+, T&C apply, Credit subject to status.
+                - generic: TESTDRIVE
+          - generic [ref=f18e345]:
+            - generic [ref=f18e346]: Revel in the magnificent outdoors
+            - generic [ref=f18e352]:
+              - generic [ref=f18e353]: Best for
+              - generic [ref=f18e354]: This is the best for text
+            - generic [ref=f18e357]:
+              - generic [ref=f18e358]:
+                - text: Cushion
+                - tooltip [ref=f18e359] [cursor=pointer]
+              - generic [ref=f18e362]: Extra Soft
+            - generic [ref=f18e365]:
+              - generic [ref=f18e366]:
+                - text: Support
+                - tooltip [ref=f18e367] [cursor=pointer]
+              - generic [ref=f18e370]: Light Stability
+            - generic [ref=f18e373]:
+              - generic [ref=f18e374]:
+                - text: Weight
+                - tooltip [ref=f18e375] [cursor=pointer]
+              - generic [ref=f18e378]: 0 grams (0 oz)
+            - generic [ref=f18e381]:
+              - generic [ref=f18e382]:
+                - text: Heel/toe drop
+                - tooltip [ref=f18e383] [cursor=pointer]
+              - generic [ref=f18e386]: 8 Mm Drop**
+          - generic [ref=f18e389]: Free shipping over £100
+          - generic [ref=f18e391]:
+            - generic:
+              - generic [ref=f18e392]:
+                - button "Description" [expanded] [ref=f18e393] [cursor=pointer]
+                - generic [ref=f18e398]: Made for life between shootarounds, our BB9000 is infused with a FuelCell midsole for a propulsive feel that drives you - and your style - forward. Disrupt the usual flow.
+              - button "Product Details" [ref=f18e402] [cursor=pointer]
+              - button "Size & Fit" [ref=f18e408] [cursor=pointer]
+          - link "Shop all Shoes" [ref=f18e414] [cursor=pointer]:
+            - /url: /men/shoes/
+    - generic [ref=f18e425]:
+      - generic [ref=f18e426]:
+        - heading "Compare Top Running Shoes" [level=2] [ref=f18e427]
+        - link "See all running shoes" [ref=f18e428] [cursor=pointer]:
+          - /url: https://test.newbalance.co.uk/men/shoes/
+      - generic [ref=f18e429]:
+        - combobox "Select Model" [ref=f18e431]:
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option [disabled] [selected]
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+          - option
+        - combobox "Select Model" [ref=f18e433]:
+          - option "Made in USA 990v5"
+          - option "Fresh Foam 1080v11"
+          - option "806v1"
+          - option "Made US 990v5 OOS"
+          - option "327"
+          - option "411v2 - Variation Base"
+          - option "608v5"
+          - option "FreezeLXv3 Box"
+          - option "NB NUMERIC JAMIE FOY 306"
+          - option "Fresh Foam 1080v11"
+          - option "Fresh Foam 1080v11"
+          - option "Fresh Foam Cruzv1 Reissue"
+          - option "Made US 990v5 OFS"
+          - option "100"
+          - option "BB9000" [disabled]
+          - option "FuelCell 4040 v6 Molded"
+          - option "200"
+          - option "Fresh Foam Cruzv1 Reissue - MPS"
+          - option "574 Rugged"
+          - option "Fresh Foam 1080v11"
+          - option "Stray Rats Made in UK 991"
+          - option "327"
+          - option "Fresh Foam X Vongo v5"
+          - option "FuelCell Propel v3"
+          - option "327"
+          - option "327"
+          - option "Minimus TR"
+          - option "Fresh Foam Cruzv1 Reissue"
+          - option "NB NUMERIC 272"
+          - option "Fresh Foam 680v7"
+        - combobox "Select Model" [ref=f18e435]:
+          - option "Made in USA 990v5"
+          - option "Fresh Foam 1080v11"
+          - option "806v1"
+          - option "Made US 990v5 OOS"
+          - option "327"
+          - option "411v2 - Variation Base"
+          - option "608v5"
+          - option "FreezeLXv3 Box"
+          - option "NB NUMERIC JAMIE FOY 306"
+          - option "Fresh Foam 1080v11"
+          - option "Fresh Foam 1080v11"
+          - option "Fresh Foam Cruzv1 Reissue"
+          - option "Made US 990v5 OFS"
+          - option "100"
+          - option "BB9000" [disabled]
+          - option "FuelCell 4040 v6 Molded"
+          - option "200"
+          - option "Fresh Foam Cruzv1 Reissue - MPS"
+          - option "574 Rugged"
+          - option "Fresh Foam 1080v11"
+          - option "Stray Rats Made in UK 991"
+          - option "327"
+          - option "Fresh Foam X Vongo v5"
+          - option "FuelCell Propel v3"
+          - option "327"
+          - option "327"
+          - option "Minimus TR"
+          - option "Fresh Foam Cruzv1 Reissue"
+          - option "NB NUMERIC 272"
+          - option "Fresh Foam 680v7"
+        - combobox "Select Model" [ref=f18e437]:
+          - option "Made in USA 990v5"
+          - option "Fresh Foam 1080v11"
+          - option "806v1"
+          - option "Made US 990v5 OOS"
+          - option "327"
+          - option "411v2 - Variation Base"
+          - option "608v5"
+          - option "FreezeLXv3 Box"
+          - option "NB NUMERIC JAMIE FOY 306"
+          - option "Fresh Foam 1080v11"
+          - option "Fresh Foam 1080v11"
+          - option "Fresh Foam Cruzv1 Reissue"
+          - option "Made US 990v5 OFS"
+          - option "100"
+          - option "BB9000" [disabled]
+          - option "FuelCell 4040 v6 Molded"
+          - option "200"
+          - option "Fresh Foam Cruzv1 Reissue - MPS"
+          - option "574 Rugged"
+          - option "Fresh Foam 1080v11"
+          - option "Stray Rats Made in UK 991"
+          - option "327"
+          - option "Fresh Foam X Vongo v5"
+          - option "FuelCell Propel v3"
+          - option "327"
+          - option "327"
+          - option "Minimus TR"
+          - option "Fresh Foam Cruzv1 Reissue"
+          - option "NB NUMERIC 272"
+          - option "Fresh Foam 680v7"
+      - generic [ref=f18e438]:
+        - generic [ref=f18e440]:
+          - generic [ref=f18e441]: Revel in the magnificent outdoors
+          - link [ref=f18e444] [cursor=pointer]:
+            - /url: /men/shoes/bb9000/BB9000V1-36487.html
+            - img "BB9000" [ref=f18e446]
+          - paragraph [ref=f18e449]: Stability
+          - paragraph [ref=f18e457]: Cushion
+          - generic [ref=f18e463]:
+            - paragraph [ref=f18e465]: Technology
+            - img "nb-infinion-icon" [ref=f18e467]
+          - generic [ref=f18e471]:
+            - paragraph [ref=f18e473]: Drop
+            - paragraph [ref=f18e475]: 8 Mm Drop**
+          - generic [ref=f18e476]:
+            - paragraph [ref=f18e478]: Weight
+            - paragraph [ref=f18e480]: 0 grams (0 oz)
+          - generic [ref=f18e481]: £129.99
+          - link "Shop now" [ref=f18e484] [cursor=pointer]:
+            - /url: /men/shoes/bb9000/BB9000V1-36487.html
+        - generic [ref=f18e485]: Select a model to compare
+        - generic [ref=f18e487]: Select a model to compare
+        - generic [ref=f18e489]: Select a model to compare
+    - generic [ref=f18e498]:
+      - alert [ref=f18e499]
+      - generic [ref=f18e500]:
+        - heading "Reviews" [level=2] [ref=f18e502]
+        - generic [ref=f18e503]:
+          - button "Bazaarvoice Authentic reviews" [ref=f18e506] [cursor=pointer]:
+            - img "The trustmark icon that reveals a popup describing BV authenticity" [ref=f18e507]
+          - generic [ref=f18e510]:
+            - heading "Review this Product" [level=3] [ref=f18e511]
+            - group "Rating is 0 (out of 5 stars)." [ref=f18e513]:
+              - button "Select to rate the item with 1 star. This action will open submission form." [ref=f18e514]:
+                - generic [ref=f18e515] [cursor=pointer]
+              - button "Select to rate the item with 2 stars. This action will open submission form." [ref=f18e524]:
+                - generic [ref=f18e525] [cursor=pointer]
+              - button "Select to rate the item with 3 stars. This action will open submission form." [ref=f18e534]:
+                - generic [ref=f18e535] [cursor=pointer]
+              - button "Select to rate the item with 4 stars. This action will open submission form." [ref=f18e544]:
+                - generic [ref=f18e545] [cursor=pointer]
+              - button "Select to rate the item with 5 stars. This action will open submission form." [ref=f18e554]:
+                - generic [ref=f18e555] [cursor=pointer]
+            - generic [ref=f18e564]: Be the first to review this product
+        - generic:
+          - status [ref=f18e569]
+          - status [ref=f18e570]
+  - generic [ref=f18e571]:
+    - contentinfo [ref=f18e572]:
+      - status [ref=f18e573]
+      - generic [ref=f18e575]:
+        - paragraph [ref=f18e576]: Become a member. Access extra benefits.
+        - link "Sign up" [ref=f18e577] [cursor=pointer]:
+          - /url: https://test.newbalance.co.uk/on/demandware.store/Sites-NBUK-Site/en_GB/Login-Show?action=register
+      - generic [ref=f18e579]:
+        - generic [ref=f18e580]:
+          - generic [ref=f18e582]:
+            - generic [ref=f18e583]: Customer Service
+            - list [ref=f18e585]:
+              - listitem [ref=f18e586]:
+                - link "Contact Us" [ref=f18e587] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/customer-care-1/
+              - listitem [ref=f18e588]:
+                - link "FAQ" [ref=f18e589] [cursor=pointer]:
+                  - /url: https://new-balance.zendesk.com/hc/en-us
+              - listitem [ref=f18e590]:
+                - link "Size Guide" [ref=f18e591] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/size-guide.html
+              - listitem [ref=f18e592]:
+                - link "Sale and discount exclusions" [ref=f18e593] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/search?cgid=50353-2
+              - listitem [ref=f18e594]:
+                - link "Product Care" [ref=f18e595] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/unisex-shoes-1/
+              - listitem [ref=f18e596]:
+                - link "Find a Store" [ref=f18e597] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/stores?showMap=true
+          - generic [ref=f18e599]:
+            - generic [ref=f18e600]: Ordering and shipping
+            - list [ref=f18e602]:
+              - listitem [ref=f18e603]:
+                - link "Gift Cards" [ref=f18e604] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/giftcards
+              - listitem [ref=f18e605]:
+                - link "Track your order" [ref=f18e606] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/on/demandware.store/Sites-NBUK-Site/en_GB/Order-Status
+              - listitem [ref=f18e607]:
+                - link "Shipping Information" [ref=f18e608] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/customer-care-page-content/customer-service-shipping.html
+              - listitem [ref=f18e609]:
+                - link "Payment Options" [ref=f18e610] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/customer-care-page-content/customer-service-paymentoptions.html
+              - listitem [ref=f18e611]:
+                - link "Returns" [ref=f18e612] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/search?cgid=065735
+          - generic [ref=f18e614]:
+            - generic [ref=f18e615]: About Us
+            - list [ref=f18e617]:
+              - listitem [ref=f18e618]:
+                - link "Our Purpose" [ref=f18e619] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/search?cgid=400961
+              - listitem [ref=f18e620]:
+                - link "Responsible Leadership" [ref=f18e621] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/responsible-leadership.html
+              - listitem [ref=f18e622]:
+                - link "Careers" [ref=f18e623] [cursor=pointer]:
+                  - /url: https://jobs.newbalance.com/global/en
+              - listitem [ref=f18e624]:
+                - link "The TRACK at New Balance" [ref=f18e625] [cursor=pointer]:
+                  - /url: https://thetrackatnewbalance.com/
+              - listitem [ref=f18e626]:
+                - link "Press Box" [ref=f18e627] [cursor=pointer]:
+                  - /url: https://newbalance.newsmarket.com/
+          - generic [ref=f18e629]:
+            - generic [ref=f18e630]: For You
+            - list [ref=f18e632]:
+              - listitem [ref=f18e633]:
+                - link "Student Discount" [ref=f18e634] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/unidays.html
+              - listitem [ref=f18e635]:
+                - link "Sign Up to Wear Test" [ref=f18e636] [cursor=pointer]:
+                  - /url: https://product.testing.newbalance.com/
+              - listitem [ref=f18e637]:
+                - link "Idea Submission" [ref=f18e638] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/exp-idea-submission.html
+              - listitem [ref=f18e639]:
+                - link "Affiliate Program" [ref=f18e640] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/exp-affiliate.html
+        - generic [ref=f18e643]:
+          - link [ref=f18e645] [cursor=pointer]:
+            - /url: https://test.newbalance.co.uk/
+            - img "New Balace Logo" [ref=f18e646]
+          - text: Independent since 1906, we empower people through sport and craftsmanship to create positive change in communities around the world.
+          - generic [ref=f18e647]:
+            - link [ref=f18e649] [cursor=pointer]:
+              - /url: https://www.instagram.com/newbalance/
+              - img "instagram" [ref=f18e650]
+            - link [ref=f18e652] [cursor=pointer]:
+              - /url: http://www.facebook.com/Newbalance
+              - img "facebook" [ref=f18e653]
+            - link [ref=f18e655] [cursor=pointer]:
+              - /url: https://twitter.com/NewBalance
+              - img "twitter" [ref=f18e656]
+            - link [ref=f18e658] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/newbalance
+              - img "youTube" [ref=f18e659]
+            - link [ref=f18e661] [cursor=pointer]:
+              - /url: https://www.pinterest.com/newbalance/
+              - img "pinterest" [ref=f18e662]
+            - link [ref=f18e664] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@newbalance
+              - img "tiktok" [ref=f18e665]
+      - generic [ref=f18e666]:
+        - generic [ref=f18e670]:
+          - generic [ref=f18e671]: New Balance family of brands
+          - link [ref=f18e673] [cursor=pointer]:
+            - /url: https://www.brine.com/
+            - img "Brine" [ref=f18e674]
+          - link [ref=f18e676] [cursor=pointer]:
+            - /url: https://www.warrior.com/
+            - img "Warrior" [ref=f18e677]
+          - link [ref=f18e679] [cursor=pointer]:
+            - /url: https://www.newbalanceteam.com/
+            - img "NB Team Sports" [ref=f18e680]
+        - generic [ref=f18e681]:
+          - generic [ref=f18e685]:
+            - link [ref=f18e686] [cursor=pointer]:
+              - /url: /international
+              - img "country" [ref=f18e688]
+            - button "GB" [ref=f18e689] [cursor=pointer]
+          - generic [ref=f18e692]:
+            - link "Privacy Policy" [ref=f18e694] [cursor=pointer]:
+              - /url: https://test.newbalance.co.uk/privacy-policy.html
+            - link "Website Terms & Conditions" [ref=f18e696] [cursor=pointer]:
+              - /url: https://test.newbalance.co.uk/terms.html
+            - link "Cookies Settings" [ref=f18e698] [cursor=pointer]:
+              - /url: javascript:void(0);
+          - generic [ref=f18e699]: Copyright 2020, New Balance
+        - dialog
+    - button "Chat with us" [ref=f18e702] [cursor=pointer]:
+      - strong [ref=f18e707]: Chat
+  - generic [ref=f18e708]:
+    - button "Close mt-3 mr-2" [active] [ref=f18e709] [cursor=pointer]:
+      - img "close" [ref=f18e710]
+    - generic [ref=f18e711]:
+      - generic [ref=f18e713]:
+        - generic [ref=f18e714]: Enjoy 10%* off your order.
+        - generic [ref=f18e716]: Sign up for emails to get this and more exclusive offers.
+      - generic [ref=f18e718]:
+        - generic [ref=f18e719]:
+          - generic [ref=f18e720]:
+            - textbox "Email Address" [ref=f18e721]
+            - generic: Email Address *
+          - button "Sign up" [ref=f18e723] [cursor=pointer]
+        - generic [ref=f18e724]:
+          - text: By subscribing, I am agreeing to the New Balance
+          - link "Privacy Policy" [ref=f18e725] [cursor=pointer]:
+            - /url: "https://www.newbalance.com/privacy-policy.html "
+          - text: and
+          - link "Terms & Conditions." [ref=f18e726] [cursor=pointer]:
+            - /url: "https://www.newbalance.com/terms.html "
+      - generic [ref=f18e727]: "*Exclusions Apply"

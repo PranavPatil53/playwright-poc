@@ -1,0 +1,453 @@
+"Timestamp","Test ID","Skill Check","Expected Skills","Skills Found","Skills Missing","Extracted Skills (App)","Candidates Analyzed","Average Match %","Category","Top Match %","Good Count (≥70%)","Workable Count (40-69%)","Weak Count (<40%)","Good %","Workable %","Weak %","Top Skills Across Candidates","Search Query",""
+"2026-08-27T11:07:15.958Z","TC_100","PASS","java","java","—","java; sdlc; agile; test-driven design; saas","100","73.38%","🟢 Good","100.00%","83","17","0","83.00%","17.00%","0.00%","agile methodologies (100); java (100); solution delivery life cycle (47); test-driven design (8)","In this hands-on-position you will design, development and deliver web-based java applications and systems.
+Maintain and support production and non-production systems.
+Be part of a fast paced, highly technical development team responsible for developing and delivering SaaS solutions.
+Participate in all phases of SDLC: from system analysis to technical design, development and test to deployment and support.
+Design and develop software systems and subsystems while taking into consideration integration, quality, performance, security, and user experience.
+Work in an Agile environment with a focus on iterative and test-driven design methods.
+Work closely with onshore and offshore partners to help define and execute requirements.
+Conduct design and code reviews and provide feedback on engineering best practices.
+Troubleshoot complex issues during the project and provide solutions to solve them.
+Provide support to production; diagnose and quickly resolve production issues.
+Ability to exercise sound judgment and to work effectively given general guidance and direction.
+Able to work autonomously but refer complex or unusual situations to their supervisor as necessary.",""
+"2026-08-27T11:07:50.992Z","TC_100","PASS","java","java","—","java; sdlc; agile; test-driven design; saas","100","73.38%","🟢 Good","100.00%","83","17","0","83.00%","17.00%","0.00%","agile methodologies (100); java (100); solution delivery life cycle (47); test-driven design (8)","In this hands-on-position you will design, development and deliver web-based java applications and systems.
+Maintain and support production and non-production systems.
+Be part of a fast paced, highly technical development team responsible for developing and delivering SaaS solutions.
+Participate in all phases of SDLC: from system analysis to technical design, development and test to deployment and support.
+Design and develop software systems and subsystems while taking into consideration integration, quality, performance, security, and user experience.
+Work in an Agile environment with a focus on iterative and test-driven design methods.
+Work closely with onshore and offshore partners to help define and execute requirements.
+Conduct design and code reviews and provide feedback on engineering best practices.
+Troubleshoot complex issues during the project and provide solutions to solve them.
+Provide support to production; diagnose and quickly resolve production issues.
+Ability to exercise sound judgment and to work effectively given general guidance and direction.
+Able to work autonomously but refer complex or unusual situations to their supervisor as necessary.",""
+"2026-08-27T11:11:09.595Z","TC_101","PASS","as400","as400","—","as400; ibm i; jda mms; rpgle; ile rpg; sqlrpgle; embedded sql; cl/clle; db2 for i; sql; ddc; physical files; logical files; display files; printer files; root cause analysis; batch job failures; change management; release management; ibm i journaling; commitment control; goanywhere mft; managed file transfer; sop; knowledge articles; runbooks; 24x7 support; on-call support; retail","100","32.83%","🔴 Weak","62.00%","0","32","68","0.00%","32.00%","68.00%","24x7 support (100); embedded sql (97); rpgle (96); sql (93); sqlrpgle (69); root cause analysis (47); change management (40); knowledge articles (14); managed file transfer (2); as400 (1); batch job failures (1); commitment control (1); db2 for i (1); ile rpg (1); logical files (1)","6–8 years of overall experience in AS400/IBM i and JDA MMS support, with strong hands-on experience in L2 application and production support; retail domain experience is a strong advantage.
+Provide end-to-end L2 support for AS400/IBM i-based applications, including JDA MMS and related retail applications/modules such as WMS, MAO and Storenet, as applicable.
+Perform intermediate to advanced troubleshooting for data inconsistencies, application errors, job failures, batch failures, interface issues, and production incidents.
+Possess strong hands-on programming experience in RPGLE, ILE RPG (fixed and free-format), SQLRPGLE with embedded SQL, and CL/CLLE for troubleshooting, analysis, minor enhancements, and fixes.
+Demonstrate extensive knowledge of DB2 for i, including complex SQL queries, joins, database views, stored procedures, data analysis, and SQL performance optimization.
+Possess comprehensive knowledge of DDS, including physical files, logical files, display files, and printer files.
+Perform root cause analysis (RCA) for recurring and complex issues and support corrective and preventive actions to improve application stability.
+Run approved scripts, resolve batch job failures, perform system/application resets, and carry out moderately complex production fixes within defined change and support processes.
+Monitor application and system performance, analyze critical alerts, and participate in proactive problem management, system health checks, data validations, and performance improvement activities.
+Work with L3 teams, infrastructure teams, database teams, business users, third-party vendors, and other cross-functional stakeholders to resolve complex incidents and integration issues.
+Possess experience with source change management and code promotion tools such as Aldon, Turnover, or ARCAD, following established change control and release management processes.
+Demonstrate understanding of IBM i journaling and commitment control to support data integrity, transaction management, and recovery-related analysis.
+Have experience with GoAnywhere MFT or similar managed file transfer solutions, including troubleshooting file transfer failures and supporting application integrations.
+Mentor and train L1 support team members on ticket creation, issue classification, basic troubleshooting, escalation procedures, and support processes.
+Review L1 outputs and support activities to ensure accuracy, adherence to SOPs, and appropriate escalation of incidents requiring deeper technical analysis.
+Maintain and continuously improve SOPs, knowledge articles, troubleshooting guides, runbooks, and support documentation for both L1 and L2 teams.
+Take ownership of escalated incidents, provide regular updates to stakeholders and users, communicate RCA and resolution details, and ensure timely coordination for priority and critical issues.
+Support audits, compliance requirements, process improvements, and operational best practices, while maintaining flexibility to support 24x7 operations, including on-call support, in a hybrid or remote working environment.",""
+"2026-08-27T11:14:54.310Z","TC_101","PASS","as400","as400","—","as400; ibm i; jda mms; rpgle; ile rpg; sqlrpgle; embedded sql; cl/clle; db2 for i; sql; ddc; physical files; logical files; display files; printer files; root cause analysis; batch job failures; change management; release management; ibm i journaling; commitment control; goanywhere mft; managed file transfer; sop; knowledge articles; runbooks; 24x7 support; on-call support; retail","100","32.83%","🔴 Weak","62.00%","0","32","68","0.00%","32.00%","68.00%","24x7 support (100); embedded sql (97); rpgle (96); sql (93); sqlrpgle (69); root cause analysis (47); change management (40); knowledge articles (14); managed file transfer (2); as400 (1); batch job failures (1); commitment control (1); db2 for i (1); ile rpg (1); logical files (1)","6–8 years of overall experience in AS400/IBM i and JDA MMS support, with strong hands-on experience in L2 application and production support; retail domain experience is a strong advantage.
+Provide end-to-end L2 support for AS400/IBM i-based applications, including JDA MMS and related retail applications/modules such as WMS, MAO and Storenet, as applicable.
+Perform intermediate to advanced troubleshooting for data inconsistencies, application errors, job failures, batch failures, interface issues, and production incidents.
+Possess strong hands-on programming experience in RPGLE, ILE RPG (fixed and free-format), SQLRPGLE with embedded SQL, and CL/CLLE for troubleshooting, analysis, minor enhancements, and fixes.
+Demonstrate extensive knowledge of DB2 for i, including complex SQL queries, joins, database views, stored procedures, data analysis, and SQL performance optimization.
+Possess comprehensive knowledge of DDS, including physical files, logical files, display files, and printer files.
+Perform root cause analysis (RCA) for recurring and complex issues and support corrective and preventive actions to improve application stability.
+Run approved scripts, resolve batch job failures, perform system/application resets, and carry out moderately complex production fixes within defined change and support processes.
+Monitor application and system performance, analyze critical alerts, and participate in proactive problem management, system health checks, data validations, and performance improvement activities.
+Work with L3 teams, infrastructure teams, database teams, business users, third-party vendors, and other cross-functional stakeholders to resolve complex incidents and integration issues.
+Possess experience with source change management and code promotion tools such as Aldon, Turnover, or ARCAD, following established change control and release management processes.
+Demonstrate understanding of IBM i journaling and commitment control to support data integrity, transaction management, and recovery-related analysis.
+Have experience with GoAnywhere MFT or similar managed file transfer solutions, including troubleshooting file transfer failures and supporting application integrations.
+Mentor and train L1 support team members on ticket creation, issue classification, basic troubleshooting, escalation procedures, and support processes.
+Review L1 outputs and support activities to ensure accuracy, adherence to SOPs, and appropriate escalation of incidents requiring deeper technical analysis.
+Maintain and continuously improve SOPs, knowledge articles, troubleshooting guides, runbooks, and support documentation for both L1 and L2 teams.
+Take ownership of escalated incidents, provide regular updates to stakeholders and users, communicate RCA and resolution details, and ensure timely coordination for priority and critical issues.
+Support audits, compliance requirements, process improvements, and operational best practices, while maintaining flexibility to support 24x7 operations, including on-call support, in a hybrid or remote working environment.",""
+"2026-09-04T08:57:13.371Z","TC_101","PASS","as400","as400","—","as400; ibm i; jda mms; rpgle; ile rpg; sqlrpgle; cl/clle; db2 for i; sql; dds; source change management; aldon; turnover; arcad; ibm i journaling; commitment control; goanywhere mft; application support; production support; troubleshooting; incident management; root cause analysis; scripting; monitoring; performance optimization; documentation; knowledge management; change management; release management; sop; retail; retail domain; retail applications; wms; mao; storenet; finance; mms","100","35.21%","🔴 Weak","68.00%","0","37","63","0.00%","37.00%","63.00%","application support (100); rpgle (80); sql (60); sqlrpgle (48); production support (45); root cause analysis (44); change management (41); incident management (35); monitoring (29); source change management (20); troubleshooting (19); performance optimization (18); knowledge management (14); scripting (9); as400 (1)","6–8 years of overall experience in AS400/IBM i and JDA MMS support, with strong hands-on experience in L2 application and production support; retail domain experience is a strong advantage.
+Provide end-to-end L2 support for AS400/IBM i-based applications, including JDA MMS and related retail applications/modules such as WMS, MAO and Storenet, as applicable.
+Perform intermediate to advanced troubleshooting for data inconsistencies, application errors, job failures, batch failures, interface issues, and production incidents.
+Possess strong hands-on programming experience in RPGLE, ILE RPG (fixed and free-format), SQLRPGLE with embedded SQL, and CL/CLLE for troubleshooting, analysis, minor enhancements, and fixes.
+Demonstrate extensive knowledge of DB2 for i, including complex SQL queries, joins, database views, stored procedures, data analysis, and SQL performance optimization.
+Possess comprehensive knowledge of DDS, including physical files, logical files, display files, and printer files.
+Perform root cause analysis (RCA) for recurring and complex issues and support corrective and preventive actions to improve application stability.
+Run approved scripts, resolve batch job failures, perform system/application resets, and carry out moderately complex production fixes within defined change and support processes.
+Monitor application and system performance, analyze critical alerts, and participate in proactive problem management, system health checks, data validations, and performance improvement activities.
+Work with L3 teams, infrastructure teams, database teams, business users, third-party vendors, and other cross-functional stakeholders to resolve complex incidents and integration issues.
+Possess experience with source change management and code promotion tools such as Aldon, Turnover, or ARCAD, following established change control and release management processes.
+Demonstrate understanding of IBM i journaling and commitment control to support data integrity, transaction management, and recovery-related analysis.
+Have experience with GoAnywhere MFT or similar managed file transfer solutions, including troubleshooting file transfer failures and supporting application integrations.
+Mentor and train L1 support team members on ticket creation, issue classification, basic troubleshooting, escalation procedures, and support processes.
+Review L1 outputs and support activities to ensure accuracy, adherence to SOPs, and appropriate escalation of incidents requiring deeper technical analysis.
+Maintain and continuously improve SOPs, knowledge articles, troubleshooting guides, runbooks, and support documentation for both L1 and L2 teams.
+Take ownership of escalated incidents, provide regular updates to stakeholders and users, communicate RCA and resolution details, and ensure timely coordination for priority and critical issues.
+Support audits, compliance requirements, process improvements, and operational best practices, while maintaining flexibility to support 24x7 operations, including on-call support, in a hybrid or remote working environment.",""
+"2026-09-04T08:57:18.784Z","TC_100","PASS","power bi","power bi","—","power platform; dynamics crm; azure; power apps; power automate; power bi; dynamics 365 crm; azure logic apps; azure functions; azure service bus; azure blob storage; data models; crm","35","74.37%","🟢 Good","96.00%","28","6","1","80.00%","17.10%","2.90%","dynamics 365 crm (34); dynamics crm (34); power automate (27); power apps (24); power platform (18); power bi (17); azure functions (10); azure logic apps (10); azure blob storage (8); azure service bus (8); microsoft azure (5)","CRM Developer
+
+ 
+
+Responsibilities
+
+You will be designing end-to-end solutions that integrate Power Platform, Dynamics CRM, and Azure services.
+You will be creating architecture diagrams, data models, and technical specifications.
+You will be building and configure Power Apps (Canvas and Model-Driven Apps) to meet business requirements.
+You will develop and manage Power Automate flows to automate business processes.
+You will create Power BI reports and dashboards for data visualization and analytics.
+You will establish and enforce best practices, standards, and guidelines for using Power Platform and Dynamics 365 CRM.
+ 
+
+Skills and Qualifications
+
+Previous experience in a similar position.
+Great experience in designing, developing and implementing solutions based on Power Platform integrated with Azure, in particular the development of Microsoft Dynamics.
+Proficiency in building and configuring Power Apps (Canvas and Model-Driven).
+Expertise in developing and managing Power Automate workflows.
+Experience with Power BI for data visualization and analytics.
+Knowledge of Dynamics 365 CRM modules.
+Experience with Azure services such as Azure Logic Apps, Azure Functions, Azure Service Bus, and Azure Blob Storage.
+Excellent communication and interpersonal skills
+ ",""
+"2026-09-04T10:20:55.246Z","TC_102","PASS","aws","aws","—","aws; terraform; cloudformation; vpc; transit gateway; direct connect; vpn; ec2; auto scaling; alb/nlb; s3; efs; ebs; rds; aurora; dynamodb; ssm; cloudwatch; cloudtrail; config; kms; secrets manager; lambda; step functions; sns/sqs; control tower; organizations; service catalog; aws application migration service (mgn); database migration service (dms); server migration tooling; application discovery tools; dns cutover strategies; hybrid identity and networking patterns; ansible; packer; git; github; gitlab; codecommit; ci/cd; codepipeline; github actions; azure devops; jenkins; python; powershell; bash; rest api; iam; scp; encryption at rest/in transit; logging/monitoring baselines; security groups/nacls; cis benchmarks; telecom; network; enterprise","100","51.73%","🟡 Workable","70.00%","1","62","37","1.00%","62.00%","37.00%","amazon web services (100); aws application migration service (mgn (100); ansible (47); application discovery tools (17); auto scaling (5); aurora (4)","Senior Cloud Engineer – Enterprise AWS Migrations
+
+
+
+Senior Cloud Engineer specializing in enterprise-scale migrations to AWS, with deep experience designing secure multi-account landing zones, executing complex application and data center migrations, and building automation-first cloud platforms. Proven track record leading cross-functional teams through discovery, wave planning, execution, and cutover for large portfolios of workloads while maintaining uptime, security, and compliance.
+
+
+
+• 8+ years of engineering and operating public cloud environments, including large-scale AWS implementations.
+
+• Delivered numerous migration and modernization projects across regulated and high availability environments, partnering closely with architects, security, networking, and application teams.
+
+• Strong background in Terraform/CloudFormation, identity and security controls, network architecture, and disaster recovery in AWS. 
+
+
+
+Core Competencies
+
+• Cloud Migration Strategy & Execution – Portfolio discovery, TCO analysis, wave planning, landing zone readiness, cutover/runbook design
+
+• AWS Landing Zones & Governance – AWS Organizations, Control Tower, SCPs, IAM, account vending, guardrails
+
+• Hybrid Networking & Connectivity – VPC design, Transit Gateway, Cloud WAN, Direct Connect, VPN, on-prem integration
+
+• Infrastructure as Code & Automation – Terraform, CloudFormation, CI/CD pipelines, GitOps workflows
+
+• Resilience & DR – Multi-AZ/Region design, RTO/RPO planning, backup and recovery, failover testing
+
+• Security & Compliance – KMS, IAM, security groups/NACLs, CloudTrail, Config, CIS and best-practice baselines
+
+• Observability & Operations – CloudWatch, CloudTrail, EventBridge, Container/VM monitoring, logging, incident triage and escalation
+
+• Stakeholder Leadership – Executive and technical communication, runbooks, knowledge transfer, mentoring
+
+
+
+Cloud & DevOps Skills
+
+AWS Services (Core):
+
+VPC, Subnets, Transit Gateway, Direct Connect, VPN, EC2, Auto Scaling, ALB/NLB, S3, EFS,
+
+EBS, RDS, Aurora, DynamoDB, SSM, CloudWatch, CloudTrail, Config, KMS, Secrets
+
+Manager, Lambda, Step Functions, SNS/SQS, CloudFormation, Control Tower, Organizations,
+
+Service Catalog
+
+
+
+Migration & Hybrid:
+
+AWS Application Migration Service (MGN), Database Migration Service (DMS), ModelizeIT,
+
+Server Migration tooling, application discovery tools, DNS cutover strategies, hybrid identity
+
+and networking patterns
+
+
+
+Infrastructure as Code & Tooling:
+
+Terraform, CloudFormation, Ansible, Packer, Git (GitHub/GitLab/CodeCommit), CI/CD (CodePipeline, GitHub Actions, Azure DevOps, Jenkins)
+
+
+
+Containers & Platform (optional, if applicable):
+
+ECS/Fargate and/or EKS, container image pipelines, observability and scaling patterns
+
+
+
+Scripting & Automation:
+
+Python, PowerShell, Bash, REST APIs, automation of provisioning, configuration, and compliance checks
+
+
+
+Security & Compliance:
+
+IAM role design, SCPs, least-privilege access models, encryption at rest/in transit, logging/monitoring baselines, implementation of security controls guided by enterprise or CIS benchmarks",""
+"2026-09-04T10:27:24.590Z","TC_103","PASS","react","react","—","java; spring boot; rest api; postgresql; sql server; react; angular; agile; debugging; troubleshooting; unit testing; integration testing; ci/cd; git; docker; microservices; observability; resilience; api integration; sql; nosql; frontend development; crm","100","62.07%","🟡 Workable","78.00%","8","92","0","8.00%","92.00%","0.00%","api integration (88); git (87); agile methodologies (77); docker (64); frontend development (64); java (64); angular (62); microservices (29); nosql (17); integration testing (13); ci/cd (11); postgresql (11); react (4); debugging (3); sql (3)","Overview: We are hiring two exceptional India-based Senior Developers to work as core members of U.S.-based Agile teams. These individuals will own the technical implementation of critical features across customer-facing and associate-facing applications. This is a hands-on technical role, with at least 50% of time spent actively writing code or performing engineering tasks, while also guiding the rest of the team in execution.
+
+Key Responsibilities:
+
+Serve as the senior technical contributor in a cross-border team focused on Loyalty, Mobile App, CRM, and Customer Pickup.
+Own software design, development, testing, and delivery for cloud-native microservices and web components.
+Lead and guide code reviews, enforce coding standards, and ensure best practices across development.
+Work closely with American product, architecture, and Development Manager teams to break down epics, refine stories, and estimate work.
+Mentor India-based junior developers and enforce engineering best practices in a collaborative, remote-first culture.
+Proactively communicate blockers, design decisions, and progress across global teams.
+Write clean, testable, scalable code with strong observability and resilience patterns.
+Integrate with Salesforce, internal APIs, SQL/NoSQL systems, and customer data platforms.
+Required Experience & Skills:
+
+8-10 years of hands-on development experience.
+Deep expertise in Java, Spring Boot, RESTful API development, SQL (PostgreSQL, SQL Server), and front-end frameworks (React/Angular).
+Experience working within an Agile environment alongside U.S.-based product managers, development managers, and designers.
+Strong debugging, troubleshooting, and unit/integration testing skills.
+Familiar with CI/CD pipelines, source control (Git), containerization (Docker), and modern deployment patterns.
+Excellent communication and proactive problem-solving in a remote-first environment.
+Prior experience working in an offshore/onshore model is highly preferred.",""
+"2026-09-04T10:30:06.000Z","TC_104","PASS","python","python","—","dotnet; c#; python; angular; ionic; html5; scss; css; typescript; javascript; jasmine; jest; ngrx; rxjs; material design; bootstrap; eslint; prettier; sonarqube; rest api; microservices; microservice; event driven architecture; azure devops; git; oauth; oidc; saml; sso; reusable component library; codebase maintenance; performance optimization; scalability; user experience; rdbms; nosql; cosmos db; mongodb; redis; distributed cache; paas; saas; azure; gcp; web & mobile applications","100","64.33%","🟡 Workable","75.00%","8","92","0","8.00%","92.00%","0.00%","css (86); git (76); angular (64); azure devops (62); javascript (60); bootstrap (57); html5 (54); .net (46); c# (17); microservice (17); mongodb (14); jest (11); google cloud (7); cosmos db (5); ionic (4)","Senior Full Stack Developer - Job Description
+
+
+
+Primary Purpose
+
+The Senior Full Stack Developer assists in building both front-end and back-end for Web and Mobile applications. Senior Full Stack Developer delivers solutions using the latest architectural approaches such as Serverless/Microservices, Containerization, Cloud Technologies, Hybrid mobile frameworks and tools.
+
+
+
+Essential Functions/Responsibilities
+
+• Provide hands-on development in the application development, unit test, and rollout of strategic web and Mobile initiatives.
+
+• Develop both front-end and back-end for web/mobile applications, working with a hybrid internal/vendor team, to support various lines of business and functional areas
+
+• Work with Business Owners and Business Analysis teams, to create business requirements.
+
+• Document technical requirements and technical specifications for Web/Mobile applications (and related integrated solutions) and provide technical solutions to support those needs.
+
+• Provide feedback (and approval) on technical designs and methods to support business requirements.
+
+• Effectively communicate relevant project planning and status information to leadership/management.
+
+• Deliver engaging, informative, well-organized demos/presentations that are effectively tailored to the intended audience, as needed
+
+
+
+ Additional Job Requirements
+
+
+
+• Solid understanding of RDBMS & NoSQL databases.
+
+• Expert in back-end development using .NET, C# or Python
+
+• Expert in front-end development using Angular, Ionic, HTML5, SCSS/CSS, Typescript, JavaScript, Unit test framework - Jasmine, Jest, NgRx, RxJS, material design/Bootstrap.
+
+• Knowledge of front-end code quality tools like ESLint, Prettier, SonarQube, RESTful API design and client consumption, Micro-front-end Architecture, Angular SSR.
+
+• Knowledge of asyncio, Cosmos/Mongo DB, Redis/Distributed cache
+
+• Experience using PAAS and SAAS resources in Azure or GCP.
+
+• Knowledge of Kubernetes, Microservice/ Event driven architecture is a plus.
+
+• Experience using Azure DevOps /GIT based source control systems.
+
+• Knowledge of OAuth/OIDC, SAML, SSO is a plus.
+
+• Strong experience with building and maintaining a reusable component library.
+
+• Experience with maintaining and improving an existing codebase, focusing on improving performance, scalability, and user experience.
+
+• Excellent problem-solving skills and critical thinker.
+
+• Excellent verbal and written communication skills to interact with staff and business partners",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""

@@ -1,0 +1,437 @@
+"Timestamp","Test ID","Skill Check","Expected Skills","Skills Found","Skills Missing","Extracted Skills (App)","Candidates Analyzed","Average Match %","Category","Top Match %","Good Count (≥70%)","Workable Count (40-69%)","Weak Count (<40%)","Good %","Workable %","Weak %","Top Skills Across Candidates","Search Query",""
+"2026-09-04T10:35:23.400Z","TC_106","PASS","risk management","risk management → 3rd party risk management","—","3rd party risk management; it risk management; it security policies; security controls; vendor management; risk assessments; control maturity; data maps; procurement; risk management","100","60.29%","🟡 Workable","77.00%","11","89","0","11.00%","89.00%","0.00%","it risk management (78); it security policies (64); security controls (64); 3rd party risk management (43); control maturity (21); vendor management (18); procurement (17); risk assessments (10)","This role will be expected to assist with the implementation of leading security and governance practices, procedures, and controls to protect  information assets and ensure compliance with applicable regulatory requirements.
+
+
+
+IT Compliance (3rd Party Risk Management (80%)
+
+Responsible for independently maturing Carter’s IT 3rd Party Risk Management program
+Responsible for leading the implementation of the IT 3rd Party Risk Management program for all of CRI.
+Partner and support the Director of IT Risk and Compliance with the selection of 3rd Party Risk Management Framework
+High level of professional written and verbal communication is needed in this role. This role is responsible for partnering with every LT member and their team that owns any vendor relationships and providing strong recommendations on how to handle vendor management within the Carter’s. Role needs to be able to explain the business case and collaborate effectively with multiple challenging high-level stakeholders.
+Responsible for preparing and reporting IT 3rd Party Risk Management status and key metrics to Executive Management.
+Responsible for analyzing all vendors to determine Carter’s Tier 1 through Tier 3 vendors and implementing a cycle for periodic reviews
+Evaluates and updates IT security policies, procedures, and standards to ensure alignment with applicable security control requirements
+Assist the VP of Procurement to build out the vendor management global program for Carter’s
+Review guidelines related to IT 3rd party risk management, and coordinate with various teams to ensure compliance with requirements
+Manage and upkeep of data maps process i.e., workflows within One Trust that handle IT 3rd party vendor management data
+Monitoring and management 3rd party vendor investigation as appropriate including collaborating with business partners who own the vendor relationship
+Coordination of IT 3rd party vendor management external systems in support of internal groups
+Assist with other IT 3rd party vendor management compliance needs for Carter’s
+
+
+IT Risk Management (20%)
+
+Assists with the execution of IT security risk assessments against industry leading security controls frameworks
+Regularly updates metrics and analysis to track remediation progress and demonstration of control maturity and effectiveness
+Evaluates the adequacy and effectiveness of safeguards protecting sensitive Company information
+Assist with the Cyber Security semiannual review process
+
+
+SECONDARY FUNCTIONS (IF APPLICABLE - ANY DUTIES NOT CONSIDERED ESSENTIAL)
+
+As needed, independently researches 3rd party risk management related assignments
+Assists with special projects and risk mitigation objectives
+
+
+JOB REQUIREMENTS (MINIMUM COMPETENCIES REQUIRED FOR JOB PERFORMANCE)
+
+Experience implementing 3rd party risk management plans
+The ability to think critically, assess and quantify technology risk, document complex processes, and collaborate effectively with cross-functional stakeholders is required
+
+
+PRIOR WORK EXPERIENCE AND EDUCATIONAL REQUIREMENTS
+
+Bachelor’s degree is required, technical degree is preferred
+Professional certification (CISA, CISM, CGEIT, CRISC or similar)
+Prefer 8+ years of experience related to building and implementing IT 3rd party risk management programs  ",""
+"2026-09-04T10:35:37.829Z","TC_107","PASS","flow designer","flow designer","—","servicenow; flow designer; business rules; client scripts; ui policies; integrationhub; apis; sdlc; itsm processes; managed services workflows; itsm","100","60.37%","🟡 Workable","80.00%","8","92","0","8.00%","92.00%","0.00%","servicenow (100); apis (52); business rules (34); client scripts (19); itsm processes (18); flow designer (9); ui policies (6); managed services workflows (3)","JOB SUMMARY:
+
+
+
+The ServiceNow Developer is responsible for configuring, developing, and enhancing the ServiceNow platform to support Managed Services operations. This role focuses on execution, automation, and integration under the guidance of the Architect and Product Owner.
+
+SUMMARY OF ESSENTIAL JOB FUNCTIONS:
+
+·      Develop and configure ServiceNow modules, workflows, and automations
+
+·      Build and maintain integrations using IntegrationHub, APIs, and middleware
+
+·      Support ServiceBridge and eBonding configurations with clients
+
+·      Troubleshoot platform issues and support enhancements
+
+·      Follow established SDLC, testing, and documentation standards
+
+·      Collaborate with Product Owners and BSAs to implement requirements
+
+·      Participate in code reviews and quality assurance processes
+
+REQUIRED SKILLS AND EXPERIENCE:
+
+·      3+ years of ServiceNow development experience
+
+·      Strong experience with Flow Designer, Business Rules, Client Scripts, and UI Policies
+
+·      Familiarity with ITSM processes and Managed Services workflows
+
+ 
+
+PREFERRED QUALIFICATIONS:
+
+ServiceNow CSA or CIS certification
+Experience with enterprise integrations and automation.
+Exposure to MSP or multi-tenant environments",""
+"2026-09-04T10:38:26.145Z","TC_108","PASS","apex","apex","—","salesforce; apex; lightning web components (lwc); salesforce flow; apis; platform events; change data capture (cdc); streaming apis; soql; rest/soap apis; asynchronous apex; copado; git-based version control; salesforce devops center; data loader; data import wizard; etl tools; software development lifecycle; permission sets; sso/oauth; secure coding best practices; crm","100","63.89%","🟡 Workable","73.00%","10","90","0","10.00%","90.00%","0.00%","apis (84); lightning web components (lwc (82); apex (70); asynchronous apex (68); git-based version control (40); rest/soap apis (14); salesforce (14); etl tools (13); salesforce devops center (11); salesforce flow (8); data loader (3); platform events (3); streaming apis (3); copado (2); change data capture (cdc (1)","       Responsible for designing, coding, developing, integrating and implementing Salesforce code and configurations
+
+·        Develop, manage and maintain custom applications on the Salesforce platform to support organizational needs
+
+·        Create and manage custom objects, custom fields, page layouts, dashboards, and validation rules
+
+·        Configure, manage and maintain custom sharing rules to ensure data security
+
+·        Create and manage APEX classes, Asynchronous APEX code(Batch, Queueable, Scheduled)
+
+·        Design, develop and maintain LWC and Aura Components
+
+·        Create and manage platform events
+
+·        Develop and build user interfaces
+
+·        Responsible for configuration
+
+·        Design and develop integrations between Salesforce and other applications/systems as needed
+
+·        Guide and influence the implementation of architectural and programming standards along with best practices for a technically sound and scalable Salesforce solutions 
+
+·        Oversight of the overall implementation process for new code and applications 
+
+·        Perform other duties as assigned
+
+Knowledge, Skills & Abilities Required: 
+
+·        Knowledge of the software development lifecycle
+
+·        Experience designing, developing, configuring, customizing, and administering Salesforce
+
+·        Hands-on experience with Salesforce, Apex, Lightning Web Components (LWC), Salesforce Flow, APIs, Platform Events, Change Data Capture (CDC), and Streaming APIs
+
+·        Strong knowledge of the Salesforce platform, including configuration, customization, and development using Apex, LWC, and SOQL
+
+·        Experience with Salesforce integration patterns, including REST/SOAP APIs, Platform Events, CDC, and asynchronous Apex
+
+·        Experience with Salesforce DevOps tools such as Copado, Git-based version control, and Salesforce DevOps Center
+
+·        Familiarity with Data Cloud, Einstein (AI) capabilities, and modern Salesforce automation (Flows)
+
+·        Experience with data migration tools (Data Loader, Data Import Wizard, or ETL tools)
+
+·        Experience designing and developing complex Salesforce solutions
+
+·        Experience building scalable, reusable, and maintainable Salesforce solutions
+
+·        Ability to write and review technical designs, create solution architecture diagrams, and conduct code reviews
+
+·        Understanding of Salesforce security models, including permission sets, SSO/OAuth, and secure coding best practices
+
+·        Ability to collaborate effectively across departments and lines of business
+
+·        Motivated and organized self-starter with strong attention to detail and the ability to manage multiple priorities
+
+·        Inquisitive, agile, and a strong team player with excellent written, verbal, and interpersonal communication skills
+
+·        Ability to remain adaptable and resilient with an optimistic outlook that supports our culture and Core Values
+
+Education & Experience
+
+·        Bachelor’s degree or equivalent combination of education and experience required
+
+·        5+ years of IT and Software Development experience required
+
+·        5+ years of hands-on Salesforce experience in Configuration & Coding required
+
+·      Salesforce Certifications required in Architecture/Design/Development/Administration 
+
+·      Salesforce Certified Platform Developer 
+
+·      Experience with Copado is required
+
+·      Experience in Financial Services Cloud preferred",""
+"2026-09-04T10:38:27.328Z","TC_109","PASS","java","java","—","java; dotnet; dotnetcore; azure; microservices; ddd; event-driven architecture; cloud-native architectures; rest api; graphql; cqrs; saga; circuit breaker; data modeling; schema design; integration; security; access control; agile; customer-focused mindset; software development lifecycle; distributed systems; domain driven design; vulnerabilities; attack vectors; design patterns; docker; kubernetes; llm; rag; open ai; data harmonization; data normalization; service oriented architecture; high availability; mission-critical applications; data analysis; data mining; business intelligence; configuration management; source code control; software usability; active directory; ldap; siteminder; it transformation","17","15.82%","🔴 Weak","27.00%","0","0","17","0.00%","0.00%","100.00%","java (14); agile methodologies (9); docker (9); sdlc (9); software usability (8); .net (6); microservices (6); kubernetes (5); design patterns (4); bi (3); restful (3); cloud-native architectures (2); ddd (2); graphql (2); integration (2)","Provide technical leadership on design, development, and execution of software solutions.
+Design and implement easy-to-use and intuitive User Interfaces.
+Develop and use relevant industry standards and domain information models to satisfy functional and non-functional requirements and achieve compliance with mandated standards/guidelines.
+Participate in proposing new technical architectures and solutions to improve and enhance existing architectures.
+Determine scope and provide level of effort estimates for project tasks and related activities, and match required skill sets to task requirements and allocate team resources appropriately.
+Provide technical architecture subject matter expertise and services for new and existing projects.
+Evaluate and test emerging technologies/tools.
+Conduct or facilitate collaborative data modeling activities among multiple stakeholders.
+Support the business development efforts where data architecture and analysis requirements are defined.
+Communication
+Facilitate team and client meetings effectively.
+Hold regular status meetings with project team.
+Keep project team well informed of changes within the organization and general corporate news.
+Effectively communicate relevant project information to superiors.
+Deliver engaging, informative, well-organized presentations.
+Resolve and/or escalate issues in a timely fashion.
+Understand how to communicate difficult/sensitive information tactfully.
+Teamwork
+Consistently acknowledge and appreciate each team member's contributions.
+Effectively utilize each team member to his/her fullest potential.
+Motivate team to work together in the most efficient manner.
+Keep track of lessons learned and share those lessons with team members.
+Mitigate team conflict and communication problems.
+In conjunction with the CIO and IT leadership team, enhance IT best-practices, policies and methodologies as part of the Bright Horizons IT Transformation to a world-class IT organization and partner with the business.
+Travel as required.
+ 
+
+ 
+
+Job Requirements – Education/Experience
+ 
+
+Bachelor's Degree in Computer Science or related field
+16 + years of experience. 
+Technical Expertise: Proficiency in modern web technologies .Net/.NetCore or Java and cloud technologies (Azure preferred)
+Architecture & Design: Experience in enterprise-scale applications using microservices, DDD, event-driven, and cloud-native architectures; familiarity with REST, GraphQL, and design patterns (CQRS, SAGA, Circuit Breaker, etc.).
+Data & Integration: Strong skills in data modeling, schema design, integration, security, and access control in enterprise applications.
+Leadership: Proven ability to oversee multiple projects, make sound decisions, and collaborate effectively with diverse teams; agile and customer-focused mindset.
+ 
+
+Preferred skills:
+Thorough understanding of the complete software development lifecycle with ability to learn and adapt to new technologies quickly.
+Deep knowledge of designing enterprise-scale applications using distributed, micro services, Domain Driven Design (DDD), event-driven, and cloud native architectures.
+Experience in building a system with high-security standards and has a very good understanding of common vulnerabilities and attack vectors and how to prevent them.
+Solid knowledge of .Net/.NetCore or Java development.
+Broad and deep knowledge of web technologies, REST, GraphQL, Design Patterns (CQRS, Outbox, SAGA, Circuit Breaker, Mediator etc.)
+Knowledge of cloud Azure, Docker, Kubernetes.
+Knowledge of Generative AI like LLM, RAG, Open AI etc.
+Experience with data modeling and schema design, data harmonization and normalization, and data integration approaches and technologies such as those used in multi-source enterprise application integration, data security and access control and service-oriented architecture solutions.
+Architect experience with practical background in systems, application development, and languages
+Knowledge of Microsoft technologies, including Microsoft SQL Server and other database systems, .Net development processes and best practices, and overall architecture of all layers of the application set
+Experience in distributed computing architecture leveraging latest technology paradigms such as Service Oriented Architecture
+Experience with highly-available system architecture and deployment for mission-critical solutions
+Familiarity with information integration activities such as mapping and transformation, data validation, and data analysis including data mining and business intelligence
+Experience architecting and designing complex IT systems preferred, especially external customer facing applications
+Experience building and supporting mission critical applications, running in a highly distributed manner
+Familiarity with various requirements gathering techniques
+Familiarity with configuration management concepts and tools, source code control, and development standards
+Familiarity with software usability concepts
+Experience working with multiple customers and technical staff, including building consensus and mediating compromises when necessary
+Strong logical and technical problem-solving skills
+Ability to learn and quickly comprehend new concepts
+Strong judgment and decision-making ability
+Passion and ability in providing excellent customer service
+Experience overseeing (from a technical perspective) multiple projects
+Understanding of application security technologies and approaches (Active Directory/ADAM, LDAP, SiteMinder)",""
+"2026-09-09T10:06:40.643Z","TC_110","FAIL","rpa","—","rpa","—","100","100.00%","🟢 Good","100.00%","100","0","0","100.00%","0.00%","0.00%","rpa (100)","RPA Developer",""
+"2026-09-09T10:08:45.413Z","TC_110","FAIL","rpa","—","rpa","—","100","100.00%","🟢 Good","100.00%","100","0","0","100.00%","0.00%","0.00%","rpa (100)","RPA Developer",""
+"2026-09-09T10:10:52.759Z","TC_110","PASS","rpa","rpa","—","rpa","100","100.00%","🟢 Good","100.00%","100","0","0","100.00%","0.00%","0.00%","rpa (100)","RPA Developer with rpa skill",""
+"2026-09-09T10:14:50.370Z","TC_110","PASS","rpa","rpa","—","rpa","100","100.00%","🟢 Good","100.00%","100","0","0","100.00%","0.00%","0.00%","rpa (100)","RPA Developer with rpa skill",""
+"2026-09-09T10:19:22.620Z","TC_111","PASS","java","java","—","java; aws","100","100.00%","🟢 Good","100.00%","100","0","0","100.00%","0.00%","0.00%","amazon web services (100); java (100)","java developer with AWS",""
+"2026-09-11T09:12:16.996Z","TC_101","PASS","as400","as400","—","as400; ibm i; jda mms; l2 support; application support; production support; rpgle; ile rpg; sqlrpgle; embedded sql; cl; clle; db2 for i; sql; dd; physical files; logical files; display files; printer files; root cause analysis; scripts; batch jobs; monitoring; source change management; aldon; turnover; arcad; change control; release management; ibm i journaling; commitment control; goanywhere mft; managed file transfer; sop; knowledge articles; runbooks; retail","100","20.14%","🔴 Weak","32.00%","0","0","100","0.00%","0.00%","100.00%","application support (100); l2 support (100); embedded sql (97); sql (97); sqlrpgle (97); root cause analysis (50); production support (49); source change management (43); cl (33); monitoring (33); knowledge articles (15); dd (10); change control (9); batch jobs (2); managed file transfer (2)","6–8 years of overall experience in AS400/IBM i and JDA MMS support, with strong hands-on experience in L2 application and production support; retail domain experience is a strong advantage.
+Provide end-to-end L2 support for AS400/IBM i-based applications, including JDA MMS and related retail applications/modules such as WMS, MAO and Storenet, as applicable.
+Perform intermediate to advanced troubleshooting for data inconsistencies, application errors, job failures, batch failures, interface issues, and production incidents.
+Possess strong hands-on programming experience in RPGLE, ILE RPG (fixed and free-format), SQLRPGLE with embedded SQL, and CL/CLLE for troubleshooting, analysis, minor enhancements, and fixes.
+Demonstrate extensive knowledge of DB2 for i, including complex SQL queries, joins, database views, stored procedures, data analysis, and SQL performance optimization.
+Possess comprehensive knowledge of DDS, including physical files, logical files, display files, and printer files.
+Perform root cause analysis (RCA) for recurring and complex issues and support corrective and preventive actions to improve application stability.
+Run approved scripts, resolve batch job failures, perform system/application resets, and carry out moderately complex production fixes within defined change and support processes.
+Monitor application and system performance, analyze critical alerts, and participate in proactive problem management, system health checks, data validations, and performance improvement activities.
+Work with L3 teams, infrastructure teams, database teams, business users, third-party vendors, and other cross-functional stakeholders to resolve complex incidents and integration issues.
+Possess experience with source change management and code promotion tools such as Aldon, Turnover, or ARCAD, following established change control and release management processes.
+Demonstrate understanding of IBM i journaling and commitment control to support data integrity, transaction management, and recovery-related analysis.
+Have experience with GoAnywhere MFT or similar managed file transfer solutions, including troubleshooting file transfer failures and supporting application integrations.
+Mentor and train L1 support team members on ticket creation, issue classification, basic troubleshooting, escalation procedures, and support processes.
+Review L1 outputs and support activities to ensure accuracy, adherence to SOPs, and appropriate escalation of incidents requiring deeper technical analysis.
+Maintain and continuously improve SOPs, knowledge articles, troubleshooting guides, runbooks, and support documentation for both L1 and L2 teams.
+Take ownership of escalated incidents, provide regular updates to stakeholders and users, communicate RCA and resolution details, and ensure timely coordination for priority and critical issues.
+Support audits, compliance requirements, process improvements, and operational best practices, while maintaining flexibility to support 24x7 operations, including on-call support, in a hybrid or remote working environment.",""
+"2026-09-11T09:13:38.042Z","TC_99","PASS","python","python","—","python; cloud infrastructure","100","77.50%","🟢 Good","100.00%","55","45","0","55.00%","45.00%","0.00%","python (100); cloud infrastructure (55)","Python develper with 8 years of experience and cloud infra experience",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","",""

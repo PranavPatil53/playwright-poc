@@ -12,17 +12,25 @@
     "test:saucedemo": "npx playwright test --project=saucedemo",
     "test:api": "npx playwright test --project=api",
     "test:practice": "npx playwright test --project=practice",
+    "test:webapp-poc": "npx playwright test --project=webapp-poc",
     "test:saucedemo:login": "npx playwright test --project=saucedemo tests/saucedemo/01-login.spec.js",
     "test:saucedemo:products": "npx playwright test --project=saucedemo tests/saucedemo/02-product-browsing.spec.js",
     "test:saucedemo:cart": "npx playwright test --project=saucedemo tests/saucedemo/03-cart.spec.js",
     "test:saucedemo:checkout": "npx playwright test --project=saucedemo tests/saucedemo/04-checkout.spec.js",
     "test:saucedemo:navigation": "npx playwright test --project=saucedemo tests/saucedemo/05-navigation.spec.js"
   },
-  "keywords": ["playwright", "automation", "testing", "e2e", "api"],
+  "keywords": [
+    "playwright",
+    "automation",
+    "testing",
+    "e2e",
+    "api"
+  ],
   "author": "Pranav Patil",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "@playwright/mcp": "^0.0.79",
     "@playwright/test": "^1.61.1",
     "@types/node": "^26.1.0",
     "allure-commandline": "^2.43.0",

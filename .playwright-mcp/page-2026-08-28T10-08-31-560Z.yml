@@ -1,0 +1,366 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "Skip to main content" [ref=f1e5] [cursor=pointer]:
+        - /url: "#maincontent"
+      - link "Skip to footer content" [ref=f1e6] [cursor=pointer]:
+        - /url: "#footercontent"
+      - link "Skip to chat content" [ref=f1e7] [cursor=pointer]:
+        - /url: "#chatcontent"
+      - generic [ref=f1e9]:
+        - link "country GB" [ref=f1e13] [cursor=pointer]:
+          - /url: /international
+          - generic [ref=f1e14]:
+            - img "country" [ref=f1e16]
+            - generic [ref=f1e17]: GB
+        - generic [ref=f1e19]:
+          - generic [ref=f1e20]:
+            - text: COVID-19 Information Center
+            - link "Read more" [ref=f1e21] [cursor=pointer]:
+              - /url: https://test.newbalance.co.uk/covid19/?ICID=BTN_HP_PB_LP_COVID_11144_MWK
+          - generic [ref=f1e22]:
+            - text: Free shipping orders $50+ & free returns
+            - link "View details" [ref=f1e23] [cursor=pointer]:
+              - /url: "#headerBanContent"
+        - region "carousel" [ref=f1e27]:
+          - text: ⏸ ▶
+          - generic [ref=f1e29]:
+            - group [ref=f1e30]:
+              - button [ref=f1e35] [cursor=pointer]:
+                - paragraph [ref=f1e36]: The 2024 TCS New York City Marathon Collection.
+                - paragraph [ref=f1e37]: Click to learn more
+            - group "slide 1" [ref=f1e38]:
+              - button [ref=f1e43] [cursor=pointer]:
+                - paragraph [ref=f1e44]: Free shipping on all orders.
+                - paragraph [ref=f1e45]: Click to learn more
+            - group [ref=f1e46]:
+              - generic [ref=f1e50]:
+                - button [ref=f1e51] [cursor=pointer]:
+                  - paragraph [ref=f1e52]: The new 1080.
+                  - paragraph [ref=f1e53]: Click to learn more
+                - link [ref=f1e54] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/men/shoes/
+                  - text: Shop now
+            - group [ref=f1e55]:
+              - generic [ref=f1e59]:
+                - button [ref=f1e60] [cursor=pointer]:
+                  - paragraph [ref=f1e61]: Get ready for your turkey trot.
+                  - paragraph [ref=f1e62]: Click to learn more
+                - link [ref=f1e63] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/men/shoes/
+                  - text: Shop running
+                - link [ref=f1e64] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/men/shoes/
+                  - text: Shop now
+            - group [ref=f1e65]:
+              - button [ref=f1e70] [cursor=pointer]:
+                - paragraph [ref=f1e71]: The 2024 TCS New York City Marathon Collection.
+                - paragraph [ref=f1e72]: Click to learn more
+            - group [ref=f1e73]:
+              - button [ref=f1e78] [cursor=pointer]:
+                - paragraph [ref=f1e79]: Free shipping on all orders.
+                - paragraph [ref=f1e80]: Click to learn more
+            - group [ref=f1e81]:
+              - generic [ref=f1e85]:
+                - button [ref=f1e86] [cursor=pointer]:
+                  - paragraph [ref=f1e87]: The new 1080.
+                  - paragraph [ref=f1e88]: Click to learn more
+                - link [ref=f1e89] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/men/shoes/
+                  - text: Shop now
+            - group [ref=f1e90]:
+              - generic [ref=f1e94]:
+                - button [ref=f1e95] [cursor=pointer]:
+                  - paragraph [ref=f1e96]: Get ready for your turkey trot.
+                  - paragraph [ref=f1e97]: Click to learn more
+                - link [ref=f1e98] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/men/shoes/
+                  - text: Shop running
+                - link [ref=f1e99] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/men/shoes/
+                  - text: Shop now
+            - group [ref=f1e100]:
+              - button [ref=f1e105] [cursor=pointer]:
+                - paragraph [ref=f1e106]: The 2024 TCS New York City Marathon Collection.
+                - paragraph [ref=f1e107]: Click to learn more
+          - list [ref=f1e108]:
+            - listitem [ref=f1e109] [cursor=pointer]:
+              - button "Go to slide 1" [ref=f1e110]: •
+            - listitem [ref=f1e112] [cursor=pointer]:
+              - button "Go to slide 2" [ref=f1e113]: •
+            - listitem [ref=f1e115] [cursor=pointer]:
+              - button "Go to slide 3" [ref=f1e116]: •
+            - listitem [ref=f1e118] [cursor=pointer]:
+              - button "Go to slide 4" [ref=f1e119]: •
+        - generic [ref=f1e122]:
+          - button [ref=f1e124] [cursor=pointer]
+          - button "Help" [ref=f1e127] [cursor=pointer]
+      - navigation [ref=f1e129]:
+        - generic [ref=f1e131]:
+          - link "New Balance Home" [ref=f1e133] [cursor=pointer]:
+            - /url: /
+            - img "New Balance" [ref=f1e134]
+          - navigation [ref=f1e140]:
+            - list [ref=f1e142]:
+              - listitem [ref=f1e143]:
+                - link "Men" [ref=f1e144] [cursor=pointer]:
+                  - /url: /men/
+              - listitem [ref=f1e145]:
+                - link "Women" [ref=f1e146] [cursor=pointer]:
+                  - /url: /women/
+              - listitem [ref=f1e147]:
+                - link "Kids" [ref=f1e148] [cursor=pointer]:
+                  - /url: /kids-1/
+              - listitem [ref=f1e149]:
+                - link "Sports" [ref=f1e150] [cursor=pointer]:
+                  - /url: /sports/
+              - listitem [ref=f1e151]:
+                - link "Outlet" [ref=f1e152] [cursor=pointer]:
+                  - /url: /outlet/
+          - generic [ref=f1e153]:
+            - button "Search" [ref=f1e155] [cursor=pointer]:
+              - img "Search" [ref=f1e156]
+            - button "My Account" [ref=f1e160] [cursor=pointer]:
+              - img "My Account" [ref=f1e161]
+            - link "Bag 0 Items" [ref=f1e166] [cursor=pointer]:
+              - /url: https://test.newbalance.co.uk/on/demandware.store/Sites-NBUK-Site/en_GB/Cart-Show
+              - img "Bag 0 Items" [ref=f1e167]
+  - main [ref=f1e169]:
+    - generic [ref=f1e170]:
+      - generic [ref=f1e173]:
+        - generic [ref=f1e176]:
+          - generic [ref=f1e177]: Get 20% off your order when you spend $150 or more.
+          - paragraph [ref=f1e179]: Exclusions apply.
+        - generic [ref=f1e181]:
+          - link "Shop basketball" [ref=f1e182] [cursor=pointer]:
+            - /url: https://test.newbalance.co.uk/men/shoes/
+            - img "Gabby Thomas wearing NB Running apparel and the FuelCell Rebel v4" [ref=f1e183]
+          - generic [ref=f1e184] [cursor=pointer]:
+            - generic [ref=f1e185]: The Australian Open
+            - button "Shop basketball" [ref=f1e188]
+        - generic [ref=f1e190]:
+          - heading "Shop by category" [level=2] [ref=f1e193]
+          - generic [ref=f1e196]:
+            - generic [ref=f1e197]:
+              - link [ref=f1e199] [cursor=pointer]:
+                - /url: https://test.newbalance.co.uk/new/men/
+                - img "New arrivals img alt text" [ref=f1e200]
+              - paragraph [ref=f1e203]:
+                - strong [ref=f1e204]: New arrivals
+            - generic [ref=f1e205]:
+              - link [ref=f1e207] [cursor=pointer]:
+                - /url: https://test.newbalance.co.uk/men/shoes/
+                - img "Shoes img alt text" [ref=f1e208]
+              - paragraph [ref=f1e211]:
+                - strong [ref=f1e212]: Shoes
+            - generic [ref=f1e213]:
+              - link [ref=f1e215] [cursor=pointer]:
+                - /url: https://test.newbalance.co.uk/men/clothing/
+                - img "Clothing img alt text" [ref=f1e216]
+              - paragraph [ref=f1e219]:
+                - strong [ref=f1e220]: Clothing
+            - generic [ref=f1e221]:
+              - link [ref=f1e223] [cursor=pointer]:
+                - /url: https://test.newbalance.co.uk/search?cgid=11000-1
+                - img "Accessories img alt text" [ref=f1e224]
+              - paragraph [ref=f1e227]:
+                - strong [ref=f1e228]: Accessories
+        - generic [ref=f1e229]:
+          - heading "Trending now" [level=2] [ref=f1e232]
+          - generic [ref=f1e233]:
+            - tablist [ref=f1e234]:
+              - tab [selected] [ref=f1e235] [cursor=pointer]
+              - tab [ref=f1e236] [cursor=pointer]
+              - tab [ref=f1e237] [cursor=pointer]
+            - generic [ref=f1e239]:
+              - generic:
+                - tabpanel
+              - generic:
+                - tabpanel
+              - tabpanel [ref=f1e241]:
+                - link "Shop All" [ref=f1e247] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/us-routing/1111121/
+        - generic [ref=f1e250]:
+          - generic [ref=f1e254]:
+            - link "Shop now" [ref=f1e255] [cursor=pointer]:
+              - /url: https://test.newbalance.co.uk/men/shoes/
+              - img "Jordyn Huitema sitting on the floor of a studio environment." [ref=f1e256]
+            - generic [ref=f1e257]:
+              - generic [ref=f1e258]: The 9060
+              - paragraph [ref=f1e260]: Worn by Jordyn Huitema.
+              - button "Shop now" [ref=f1e263] [cursor=pointer]
+            - paragraph [ref=f1e266]: Disclaimer
+          - generic [ref=f1e270]:
+            - link "Shop men" [ref=f1e271] [cursor=pointer]:
+              - /url: https://test.newbalance.co.uk/men/shoes/
+              - img "A man and woman standing together in a studio environment." [ref=f1e272]
+            - generic [ref=f1e273]:
+              - generic [ref=f1e274]: Effortless wearability
+              - paragraph [ref=f1e276]: Tailored details meet timeless designs.
+              - generic [ref=f1e277]:
+                - button "Shop men" [ref=f1e279] [cursor=pointer]
+                - button "Shop women" [ref=f1e281] [cursor=pointer]
+        - heading "Recommended for you" [level=2] [ref=f1e286]
+        - paragraph [ref=f1e291]: Discover the perfect blend of timeless style, quality, and performance. Shop New Balance shoes, sneakers, and athletic wear.
+        - generic [ref=f1e295]:
+          - heading "Women" [level=2] [ref=f1e296]
+          - heading "Testing Sub Text" [level=3] [ref=f1e297]
+      - separator
+      - separator
+      - separator
+      - generic [ref=f1e303]:
+        - generic [ref=f1e311] [cursor=pointer]:
+          - img "lookbook" [ref=f1e312]
+          - button "view details" [ref=f1e314]:
+            - img "view details" [ref=f1e315]
+        - generic [ref=f1e323] [cursor=pointer]:
+          - generic [ref=f1e324]: Your browser does not support the video tag.
+          - button "pause video" [ref=f1e327]:
+            - img "pause video"
+          - button "view details" [ref=f1e329]:
+            - img "view details" [ref=f1e330]
+        - generic [ref=f1e338] [cursor=pointer]:
+          - generic [ref=f1e339]: Your browser does not support the video tag.
+          - button "pause video" [ref=f1e342]:
+            - img "pause video"
+          - button "open panel" [ref=f1e344]:
+            - img "open panel" [ref=f1e345]
+        - generic [ref=f1e353] [cursor=pointer]:
+          - img "lookbook" [ref=f1e354]
+          - button "view details" [ref=f1e356]:
+            - img "view details" [ref=f1e357]
+      - separator
+  - generic [ref=f1e358]:
+    - contentinfo [ref=f1e359]:
+      - status [ref=f1e360]
+      - generic [ref=f1e362]:
+        - paragraph [ref=f1e363]: Become a member. Access extra benefits.
+        - link "Sign up" [ref=f1e364] [cursor=pointer]:
+          - /url: https://test.newbalance.co.uk/on/demandware.store/Sites-NBUK-Site/en_GB/Login-Show?action=register
+      - generic [ref=f1e366]:
+        - generic [ref=f1e367]:
+          - generic [ref=f1e369]:
+            - generic [ref=f1e370]: Customer Service
+            - list [ref=f1e372]:
+              - listitem [ref=f1e373]:
+                - link "Contact Us" [ref=f1e374] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/customer-care-1/
+              - listitem [ref=f1e375]:
+                - link "FAQ" [ref=f1e376] [cursor=pointer]:
+                  - /url: https://new-balance.zendesk.com/hc/en-us
+              - listitem [ref=f1e377]:
+                - link "Size Guide" [ref=f1e378] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/size-guide.html
+              - listitem [ref=f1e379]:
+                - link "Sale and discount exclusions" [ref=f1e380] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/search?cgid=50353-2
+              - listitem [ref=f1e381]:
+                - link "Product Care" [ref=f1e382] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/unisex-shoes-1/
+              - listitem [ref=f1e383]:
+                - link "Find a Store" [ref=f1e384] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/stores?showMap=true
+          - generic [ref=f1e386]:
+            - generic [ref=f1e387]: Ordering and shipping
+            - list [ref=f1e389]:
+              - listitem [ref=f1e390]:
+                - link "Gift Cards" [ref=f1e391] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/giftcards
+              - listitem [ref=f1e392]:
+                - link "Track your order" [ref=f1e393] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/on/demandware.store/Sites-NBUK-Site/en_GB/Order-Status
+              - listitem [ref=f1e394]:
+                - link "Shipping Information" [ref=f1e395] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/customer-care-page-content/customer-service-shipping.html
+              - listitem [ref=f1e396]:
+                - link "Payment Options" [ref=f1e397] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/customer-care-page-content/customer-service-paymentoptions.html
+              - listitem [ref=f1e398]:
+                - link "Returns" [ref=f1e399] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/search?cgid=065735
+          - generic [ref=f1e401]:
+            - generic [ref=f1e402]: About Us
+            - list [ref=f1e404]:
+              - listitem [ref=f1e405]:
+                - link "Our Purpose" [ref=f1e406] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/search?cgid=400961
+              - listitem [ref=f1e407]:
+                - link "Responsible Leadership" [ref=f1e408] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/responsible-leadership.html
+              - listitem [ref=f1e409]:
+                - link "Careers" [ref=f1e410] [cursor=pointer]:
+                  - /url: https://jobs.newbalance.com/global/en
+              - listitem [ref=f1e411]:
+                - link "The TRACK at New Balance" [ref=f1e412] [cursor=pointer]:
+                  - /url: https://thetrackatnewbalance.com/
+              - listitem [ref=f1e413]:
+                - link "Press Box" [ref=f1e414] [cursor=pointer]:
+                  - /url: https://newbalance.newsmarket.com/
+          - generic [ref=f1e416]:
+            - generic [ref=f1e417]: For You
+            - list [ref=f1e419]:
+              - listitem [ref=f1e420]:
+                - link "Student Discount" [ref=f1e421] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/unidays.html
+              - listitem [ref=f1e422]:
+                - link "Sign Up to Wear Test" [ref=f1e423] [cursor=pointer]:
+                  - /url: https://product.testing.newbalance.com/
+              - listitem [ref=f1e424]:
+                - link "Idea Submission" [ref=f1e425] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/exp-idea-submission.html
+              - listitem [ref=f1e426]:
+                - link "Affiliate Program" [ref=f1e427] [cursor=pointer]:
+                  - /url: https://test.newbalance.co.uk/exp-affiliate.html
+        - generic [ref=f1e430]:
+          - link [ref=f1e432] [cursor=pointer]:
+            - /url: https://test.newbalance.co.uk/
+            - img "New Balace Logo" [ref=f1e433]
+          - text: Independent since 1906, we empower people through sport and craftsmanship to create positive change in communities around the world.
+          - generic [ref=f1e434]:
+            - link [ref=f1e436] [cursor=pointer]:
+              - /url: https://www.instagram.com/newbalance/
+              - img "instagram" [ref=f1e437]
+            - link [ref=f1e439] [cursor=pointer]:
+              - /url: http://www.facebook.com/Newbalance
+              - img "facebook" [ref=f1e440]
+            - link [ref=f1e442] [cursor=pointer]:
+              - /url: https://twitter.com/NewBalance
+              - img "twitter" [ref=f1e443]
+            - link [ref=f1e445] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/newbalance
+              - img "youTube" [ref=f1e446]
+            - link [ref=f1e448] [cursor=pointer]:
+              - /url: https://www.pinterest.com/newbalance/
+              - img "pinterest" [ref=f1e449]
+            - link [ref=f1e451] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@newbalance
+              - img "tiktok" [ref=f1e452]
+      - generic [ref=f1e453]:
+        - generic [ref=f1e457]:
+          - generic [ref=f1e458]: New Balance family of brands
+          - link [ref=f1e460] [cursor=pointer]:
+            - /url: https://www.brine.com/
+            - img "Brine" [ref=f1e461]
+          - link [ref=f1e463] [cursor=pointer]:
+            - /url: https://www.warrior.com/
+            - img "Warrior" [ref=f1e464]
+          - link [ref=f1e466] [cursor=pointer]:
+            - /url: https://www.newbalanceteam.com/
+            - img "NB Team Sports" [ref=f1e467]
+        - generic [ref=f1e468]:
+          - generic [ref=f1e472]:
+            - link [ref=f1e473] [cursor=pointer]:
+              - /url: /international
+              - img "country" [ref=f1e475]
+            - button "GB" [ref=f1e476] [cursor=pointer]
+          - generic [ref=f1e479]:
+            - link "Privacy Policy" [ref=f1e481] [cursor=pointer]:
+              - /url: https://test.newbalance.co.uk/privacy-policy.html
+            - link "Website Terms & Conditions" [ref=f1e483] [cursor=pointer]:
+              - /url: https://test.newbalance.co.uk/terms.html
+            - link "Manage Cookie Preferences" [ref=f1e485] [cursor=pointer]:
+              - /url: javascript:void(0);
+          - generic [ref=f1e486]: Copyright 2020, New Balance
+        - dialog
+    - button "Chat with us" [ref=f1e489] [cursor=pointer]:
+      - strong [ref=f1e494]: Chat

@@ -22,7 +22,7 @@ test('create user using post', async ({ request }) => {
             userId: 1,
         },
     });
-    expect(response.status()).toBe(201);
+    expect(response.status()).toBe(201);//201 means created
     const body = await response.json();
     console.log(body);
 });
