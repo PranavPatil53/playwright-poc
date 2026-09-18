@@ -40,4 +40,19 @@ function readExcelData(filePath) {
   return data;
 }
 
-module.exports = { readExcelData };
+/**
+ * Reads an Excel file and returns the rows as an array of objects.
+ * Useful for data-driven testing where each row is a test case.
+ * 
+ * @param {string} filePath - Absolute or relative path to the .xlsx file
+ * @returns {Array<Object>} - Array of row objects
+ */
+function readExcelRows(filePath) {
+  const absolutePath = path.resolve(filePath);
+  const workbook = XLSX.readFile(absolutePath);
+  const sheetName = workbook.SheetNames[0];
+  const sheet = workbook.Sheets[sheetName];
+  return XLSX.utils.sheet_to_json(sheet);
+}
+
+module.exports = { readExcelData, readExcelRows };

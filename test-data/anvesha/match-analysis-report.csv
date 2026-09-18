@@ -1,0 +1,2 @@
+Timestamp,Test ID,Skill Check,Expected Skills,Skills Found,Skills Missing,Extracted Skills (App),Candidates Analyzed,Average Match %,Category,Top Match %,Good Count (≥70%),Workable Count (40-69%),Weak Count (<40%),Good %,Workable %,Weak %,Top Skills Across Candidates,Search Query
+2026-09-17T08:14:07.641Z,TC_99,PASS,python,python,—,python; cloud infrastructure,100,68.12%,🟡 Workable,100.00%,42,58,0,42.0%,58.0%,0.0%,python (100); cloud infrastructure (31),Python develper with 8 years of experience and cloud infra experience

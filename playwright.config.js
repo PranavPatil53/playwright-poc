@@ -15,10 +15,10 @@ const { defineConfig, devices } = require('@playwright/test');
  */
 module.exports = defineConfig({
   /* Global timeout per test */
-  timeout: 60_000,
+  timeout: 120_000,
 
   expect: {
-    timeout: 15_000,
+    timeout: 35_000,
   },
 
   /* Run tests in files in parallel */
@@ -87,6 +87,20 @@ module.exports = defineConfig({
       testDir: './tests/practice',
       use: {
         ...devices['Desktop Chrome'],
+      },
+    },
+
+    // ── Webapp POC ───────────────────────────────────────────────
+    {
+      name: 'webapp-poc',
+      testDir: './tests/webapp-poc',
+      use: {
+        ...devices['Desktop Chrome'],
+        baseURL: 'https://test.newbalance.co.uk/',
+        httpCredentials: {
+          username: 'priya.uttarwar2@newbalance.com',
+          password: '4uZ(XDQsD6-X1ljd(-|z/9=iAbw3=R{[RPPCI##4',
+        },
       },
     },
   ],

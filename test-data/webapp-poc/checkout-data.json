@@ -1,0 +1,22 @@
+{
+  "user": {
+    "email": "priya.uttarwar2@newbalance.com",
+    "password": "4uZ(XDQsD6-X1ljd(-|z/9=iAbw3=R{[RPPCI##4"
+  },
+  "guestCheckout": {
+    "email": "priya.uttarwar2@newbalance.com",
+    "firstName": "John",
+    "lastName": "Smith",
+    "addressLine1": "10 Downing Street",
+    "city": "London",
+    "postalCode": "SW1A 2AA",
+    "phone": "07700900077"
+  },
+  "payment": {
+    "cardNumber": "4111111111111111",
+    "expiryDate": "03/30",
+    "expiryMonth": "03",
+    "expiryYear": "30",
+    "cvv": "737"
+  }
+}

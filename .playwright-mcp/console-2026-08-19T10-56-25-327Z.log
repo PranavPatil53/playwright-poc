@@ -1,0 +1,6 @@
+[     448ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5000/favicon.ico:0
+[     960ms] [ERROR] loadChatHistory error: QuotaExceededError: Failed to execute 'setItem' on 'Storage': Setting the value of 'chatHistory' exceeded the quota.
+    at loadChatHistory (http://127.0.0.1:5000/static/js/main.js?v=5.7:1617:22) @ http://127.0.0.1:5000/static/js/main.js?v=5.7:1619
+[   70893ms] [LOG] PAGER DATA: {answer: <div class="table-scroll-container">
+<table class=…target="_blank">View</a></td></tr></table>
+</div>, onedrive: true, jd_parsed: Object, input_tokens: null, output_tokens: null} @ http://127.0.0.1:5000/static/js/main.js?v=5.7:1332

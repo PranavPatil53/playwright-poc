@@ -1,0 +1,7 @@
+[     672ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5000/favicon.ico:0
+[    1177ms] [LOG] SEARCH META: {total_results: 179, total_pages: 2, page: 1} @ http://127.0.0.1:5000/static/js/main.js?v=5.7:632
+[    1177ms] [LOG] PAGER DATA: {total_results: 179, total_pages: 2, page: 1} @ http://127.0.0.1:5000/static/js/main.js?v=5.7:1332
+[    1242ms] [ERROR] loadChatHistory error: QuotaExceededError: Failed to execute 'setItem' on 'Storage': Setting the value of 'chatHistory' exceeded the quota.
+    at loadChatHistory (http://127.0.0.1:5000/static/js/main.js?v=5.7:1617:22) @ http://127.0.0.1:5000/static/js/main.js?v=5.7:1619
+[  214886ms] [ERROR] loadChatHistory error: QuotaExceededError: Failed to execute 'setItem' on 'Storage': Setting the value of 'chatHistory' exceeded the quota.
+    at loadChatHistory (http://127.0.0.1:5000/static/js/main.js?v=5.7:1617:22) @ http://127.0.0.1:5000/static/js/main.js?v=5.7:1619

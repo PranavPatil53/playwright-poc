@@ -1,0 +1,360 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - complementary [ref=e3]:
+      - generic [ref=e4] [cursor=pointer]:
+        - img "SYSTEMS+" [ref=e5]
+        - generic:
+          - generic: SYSTEMS+
+          - generic: Anvesha
+        - button ""
+      - button "+ New Search" [ref=e6] [cursor=pointer]:
+        - generic [ref=e7]: +
+        - generic: New Search
+      - generic [ref=e8]:
+        - generic [ref=e9]:
+          - generic "Recent Searches" [ref=e10]: 
+          - generic: Recent Searches
+        - generic [ref=e11]:
+          - generic [ref=e287] [cursor=pointer]:
+            - generic [ref=e288]: 
+            - generic: Anaplan developer with anaplan skill
+          - generic [ref=e70] [cursor=pointer]:
+            - generic [ref=e71]: 
+            - generic: data
+          - generic [ref=e73] [cursor=pointer]:
+            - generic [ref=e74]: 
+            - generic: developer with AS400 mainframe experie…
+          - generic [ref=e76] [cursor=pointer]:
+            - generic [ref=e77]: 
+            - generic: developer with sap if and greenfield
+          - generic [ref=e79] [cursor=pointer]:
+            - generic [ref=e80]: 
+            - generic: developer with greenfield skill requir…
+          - generic [ref=e82] [cursor=pointer]:
+            - generic [ref=e83]: 
+            - generic: developer with SAP FI skill
+          - generic [ref=e85] [cursor=pointer]:
+            - generic [ref=e86]: 
+            - generic: payton developper with 5 years of expe…
+          - generic [ref=e88] [cursor=pointer]:
+            - generic [ref=e89]: 
+            - generic: developer with AS/400
+          - generic [ref=e91] [cursor=pointer]:
+            - generic [ref=e92]: 
+            - generic: a python developer with stake holder m…
+          - generic [ref=e94] [cursor=pointer]:
+            - generic [ref=e95]: 
+            - generic: Software
+          - generic [ref=e97] [cursor=pointer]:
+            - generic [ref=e98]: 
+            - generic: Developer
+          - generic [ref=e100] [cursor=pointer]:
+            - generic [ref=e101]: 
+            - generic: developer
+          - generic [ref=e103] [cursor=pointer]:
+            - generic [ref=e104]: 
+            - generic: developer with as400
+          - generic [ref=e106] [cursor=pointer]:
+            - generic [ref=e107]: 
+            - generic: We are looking for a Senior Data Scien…
+          - generic [ref=e109] [cursor=pointer]:
+            - generic [ref=e110]: 
+            - generic: Python developers, 3+ yrs
+          - generic [ref=e112] [cursor=pointer]:
+            - generic [ref=e113]: 
+            - generic: Lead - Risk and Compliance Analyst
+          - generic [ref=e115] [cursor=pointer]:
+            - generic [ref=e116]: 
+            - generic: Mid Commerce CDN Edge Engineer
+          - generic [ref=e118] [cursor=pointer]:
+            - generic [ref=e119]: 
+            - generic: developer with cobol experience
+          - generic [ref=e121] [cursor=pointer]:
+            - generic [ref=e122]: 
+            - generic: Threat and vulnerability management an…
+          - generic [ref=e124] [cursor=pointer]:
+            - generic [ref=e125]: 
+            - generic: CDN engineer
+          - generic [ref=e127] [cursor=pointer]:
+            - generic [ref=e128]: 
+            - generic: find candidates with SAP MM
+          - generic [ref=e130] [cursor=pointer]:
+            - generic [ref=e131]: 
+            - generic: SAP MM
+          - generic [ref=e133] [cursor=pointer]:
+            - generic [ref=e134]: 
+            - generic: Anaplan developer with anaplan skill
+          - generic [ref=e136] [cursor=pointer]:
+            - generic [ref=e137]: 
+            - generic: someone with cpm,epm,FP&A tool
+          - generic [ref=e139] [cursor=pointer]:
+            - generic [ref=e140]: 
+            - generic: Find SAP FI consultants with 5+ years …
+          - generic [ref=e142] [cursor=pointer]:
+            - generic [ref=e143]: 
+            - generic: Hire a Project Manager with PMP certif…
+          - generic [ref=e145] [cursor=pointer]:
+            - generic [ref=e146]: 
+            - generic: Looking for a developer with 5 years o…
+          - generic [ref=e148] [cursor=pointer]:
+            - generic [ref=e149]: 
+            - generic: Find a Financial Analyst with 4+ years…
+          - generic [ref=e151] [cursor=pointer]:
+            - generic [ref=e152]: 
+            - generic: cobol candidates with 20 years of expe…
+          - generic [ref=e154] [cursor=pointer]:
+            - generic [ref=e155]: 
+            - generic: can you give me a pancake recipe
+          - generic [ref=e157] [cursor=pointer]:
+            - generic [ref=e158]: 
+            - generic: python developer with experience 4 to …
+          - generic [ref=e160] [cursor=pointer]:
+            - generic [ref=e161]: 
+            - generic: react developer with experience betwee…
+          - generic [ref=e163] [cursor=pointer]:
+            - generic [ref=e164]: 
+            - generic: .net dev with 7 years of experience
+          - generic [ref=e166] [cursor=pointer]:
+            - generic [ref=e167]: 
+            - generic: cloud engineer with cybersecurity,aws
+          - generic [ref=e169] [cursor=pointer]:
+            - generic [ref=e170]: 
+            - generic: COBOL developer with 20 to 25 exp
+          - generic [ref=e172] [cursor=pointer]:
+            - generic [ref=e173]: 
+            - generic: ios dev with 1-3 years of experience
+          - generic [ref=e175] [cursor=pointer]:
+            - generic [ref=e176]: 
+            - generic: SDE with 7 years exp
+          - generic [ref=e178] [cursor=pointer]:
+            - generic [ref=e179]: 
+            - generic: Pass
+          - generic [ref=e181] [cursor=pointer]:
+            - generic [ref=e182]: 
+            - generic: <script>alert(1)</script>
+          - generic [ref=e184] [cursor=pointer]:
+            - generic [ref=e185]: 
+            - generic: developers knowing COBOL with 25 years…
+          - generic [ref=e187] [cursor=pointer]:
+            - generic [ref=e188]: 
+            - generic: I want a software engineer with 9+ yea…
+          - generic [ref=e190] [cursor=pointer]:
+            - generic [ref=e191]: 
+            - generic: software developer in Test with 5+ yea…
+          - generic [ref=e193] [cursor=pointer]:
+            - generic [ref=e194]: 
+            - generic: Java Spring Boot backend developer wit…
+          - generic [ref=e196] [cursor=pointer]:
+            - generic [ref=e197]: 
+            - generic: python developer with , agile, aws, re…
+          - generic [ref=e199] [cursor=pointer]:
+            - generic [ref=e200]: 
+            - generic: Frontend React developers with 1-3 yea…
+          - generic [ref=e202] [cursor=pointer]:
+            - generic [ref=e203]: 
+            - generic: Find Python developers with 3+ years o…
+          - generic [ref=e205] [cursor=pointer]:
+            - generic [ref=e206]: 
+            - generic: SDE
+          - generic [ref=e208] [cursor=pointer]:
+            - generic [ref=e209]: 
+            - generic: SDET
+          - generic [ref=e211] [cursor=pointer]:
+            - generic [ref=e212]: 
+            - generic: software engineer
+          - generic [ref=e214] [cursor=pointer]:
+            - generic [ref=e215]: 
+            - generic: Software engineer with 3+
+          - generic [ref=e217] [cursor=pointer]:
+            - generic [ref=e218]: 
+            - generic: BA fresher
+          - generic [ref=e220] [cursor=pointer]:
+            - generic [ref=e221]: 
+            - generic: sde role with 9+ years of experience
+          - generic [ref=e223] [cursor=pointer]:
+            - generic [ref=e224]: 
+            - generic: SDET with 4 +years of experience
+          - generic [ref=e226] [cursor=pointer]:
+            - generic [ref=e227]: 
+            - generic: javadevelper with cybersecurity expert…
+          - generic [ref=e229] [cursor=pointer]:
+            - generic [ref=e230]: 
+            - generic: software engineer with 4+ years of exp…
+          - generic [ref=e232] [cursor=pointer]:
+            - generic [ref=e233]: 
+            - generic: Find a QA engineer Find a QA engineer …
+          - generic [ref=e235] [cursor=pointer]:
+            - generic [ref=e236]: 
+            - generic: Find a QA engineer with experience of …
+          - generic [ref=e238] [cursor=pointer]:
+            - generic [ref=e239]: 
+            - generic: Find a QA engineer
+          - generic [ref=e241] [cursor=pointer]:
+            - generic [ref=e242]: 
+            - generic: "' OR 1=1 --"
+          - generic [ref=e244] [cursor=pointer]:
+            - generic [ref=e245]: 
+            - generic: <script>alert(1)</script>
+          - generic [ref=e247] [cursor=pointer]:
+            - generic [ref=e248]: 
+            - generic: "# Job Description: iOS Developer (2+ Y…"
+          - generic [ref=e250] [cursor=pointer]:
+            - generic [ref=e251]: 
+            - generic: "Need a React dev ASAP!! 🚀 #urgent @@@…"
+          - generic [ref=e253] [cursor=pointer]:
+            - generic [ref=e254]: 
+            - generic: "Need a React dev ASAP!! 🚀 #urgent @@@"
+          - generic [ref=e256] [cursor=pointer]:
+            - generic [ref=e257]: 
+            - generic: Looking for an iOS Developer with 2+ y…
+          - generic [ref=e259] [cursor=pointer]:
+            - generic [ref=e260]: 
+            - generic: Frontend developer with an experience …
+          - generic [ref=e262] [cursor=pointer]:
+            - generic [ref=e263]: 
+            - generic: Looking for a DevOps engineer with exp…
+          - generic [ref=e265] [cursor=pointer]:
+            - generic [ref=e266]: 
+            - generic: Find Python developers with 3+ years o…
+          - generic [ref=e268] [cursor=pointer]:
+            - generic [ref=e269]: 
+            - generic: Data engineers with AWS and dbt experi…
+      - generic [ref=e12]:
+        - button " Update App" [ref=e13] [cursor=pointer]:
+          - generic [ref=e14]: 
+          - generic: Update App
+        - button " Sync Documents" [ref=e15] [cursor=pointer]:
+          - generic [ref=e16]: 
+          - generic: Sync Documents
+    - generic [ref=e17]:
+      - banner [ref=e18]:
+        - button "" [ref=e19] [cursor=pointer]
+        - generic [ref=e21]:
+          - img "SYSTEMS+" [ref=e22]
+          - generic [ref=e23]: SYSTEMS+
+          - generic [ref=e25]:
+            - generic [ref=e26]: Anvesha v4.0.4
+            - generic [ref=e27]: AI Talent Intelligence
+        - generic [ref=e28]:
+          - generic [ref=e29]: Connected
+          - button "" [ref=e32] [cursor=pointer]
+          - link "" [ref=e34] [cursor=pointer]:
+            - /url: /logout
+      - generic [ref=e36]:
+        - generic [ref=e290]: Anaplan developer with anaplan skill
+        - generic [ref=e294]:
+          - generic [ref=e296]:
+            - generic [ref=e297]:
+              - generic [ref=e298]: 
+              - text: "Anvesha interpreted your search — edit & search:"
+            - generic [ref=e299]:
+              - generic [ref=e300]:
+                - generic [ref=e301]: Role
+                - generic [ref=e303]:
+                  - text: anaplan developer
+                  - generic [ref=e304]: 
+              - textbox "Add Role..." [ref=e308]
+              - generic [ref=e309]:
+                - generic [ref=e310]: Must have Skills
+                - generic [ref=e311]:
+                  - generic [ref=e312]:
+                    - text: anaplan
+                    - generic [ref=e313] [cursor=pointer]: 
+                  - generic [ref=e314]:
+                    - text: planning
+                    - generic [ref=e315] [cursor=pointer]: 
+              - textbox "Add Must Have Skill..." [ref=e319]
+              - generic [ref=e320]:
+                - generic [ref=e321]: Total Experience
+                - spinbutton [ref=e322]: "0"
+                - generic [ref=e323]: to
+                - spinbutton [ref=e324]: "15"
+                - generic [ref=e325]: years
+            - button " Refine Search" [ref=e338] [cursor=pointer]:
+              - generic [ref=e339]: 
+              - text: Refine Search
+          - generic [ref=e340]: 5 candidates
+          - table [ref=e343]:
+            - rowgroup [ref=e344]:
+              - row [ref=e345]:
+                - columnheader "Rank" [ref=e346]
+                - columnheader "Candidate Name" [ref=e347]
+                - columnheader "Current Role" [ref=e348]
+                - columnheader "Email" [ref=e349]
+                - columnheader "Match %" [ref=e350]
+                - columnheader "Total Experience" [ref=e351]
+                - columnheader "Resume" [ref=e352]
+              - row [ref=e353]:
+                - cell "1" [ref=e354]
+                - cell "34677 Pudota Balaraju" [ref=e355]
+                - cell "Developer" [ref=e356]
+                - cell "balarajuvijay01@gmail.com" [ref=e357]
+                - cell "97% 1/1 mandatory skills matched (anaplan); 1 yrs experience" [ref=e358]
+                - cell "1 years" [ref=e360]
+                - cell [ref=e361]:
+                  - link " View" [ref=e362] [cursor=pointer]:
+                    - /url: https://systemsp-my.sharepoint.com/:b:/r/personal/celestine_fernandes_systems-plus_com/Documents/MNH%20Project%20-%20Resume%20DB/34677_Pudota_Balaraju.pdf?csf=1&web=1&e=fqYzDk
+              - row [ref=e363]:
+                - cell "2" [ref=e364]
+                - cell "12183 Gourav Sharma" [ref=e365]
+                - cell "Developer" [ref=e366]
+                - cell "gourav.21396@gmail.com" [ref=e367]
+                - cell "95% 1/1 mandatory skills matched (anaplan); 15 yrs experience" [ref=e368]
+                - cell "15 years" [ref=e370]
+                - cell [ref=e371]:
+                  - link " View" [ref=e372] [cursor=pointer]:
+                    - /url: https://systemsp-my.sharepoint.com/:b:/r/personal/celestine_fernandes_systems-plus_com/Documents/MNH%20Project%20-%20Resume%20DB/12183_Gourav_Sharma.pdf?csf=1&web=1&e=fqYzDk
+              - row [ref=e373]:
+                - cell "3" [ref=e374]
+                - cell "51669 A Lavanya" [ref=e375]
+                - cell "Project Engineer" [ref=e376]
+                - cell "lavanyalahari56@gmail.com" [ref=e377]
+                - cell "95% 1/1 mandatory skills matched (anaplan); 8 yrs experience" [ref=e378]
+                - cell "8 years" [ref=e380]
+                - cell [ref=e381]:
+                  - link " View" [ref=e382] [cursor=pointer]:
+                    - /url: https://systemsp-my.sharepoint.com/:b:/r/personal/celestine_fernandes_systems-plus_com/Documents/MNH%20Project%20-%20Resume%20DB/51669_A_Lavanya.pdf?csf=1&web=1&e=fqYzDk
+              - row [ref=e383]:
+                - cell "4" [ref=e384]
+                - cell "51596 Shalini Rani" [ref=e385]
+                - cell "Developer" [ref=e386]
+                - cell "rshalini1201@gmail.com" [ref=e387]
+                - cell "95% 1/1 mandatory skills matched (anaplan); 10 yrs experience" [ref=e388]
+                - cell "10 years" [ref=e390]
+                - cell [ref=e391]:
+                  - link " View" [ref=e392] [cursor=pointer]:
+                    - /url: https://systemsp-my.sharepoint.com/:b:/r/personal/celestine_fernandes_systems-plus_com/Documents/MNH%20Project%20-%20Resume%20DB/51596_Shalini_Rani.pdf?csf=1&web=1&e=fqYzDk
+              - row [ref=e393]:
+                - cell "5" [ref=e394]
+                - cell "51377 Vaibhav Paygude" [ref=e395]
+                - cell "Developer" [ref=e396]
+                - cell "paygudevaibhav713@gmail.com" [ref=e397]
+                - cell "90% 1/1 mandatory skills matched (anaplan); 5 yrs experience" [ref=e398]
+                - cell "5 years" [ref=e400]
+                - cell [ref=e401]:
+                  - link " View" [ref=e402] [cursor=pointer]:
+                    - /url: https://systemsp-my.sharepoint.com/:b:/r/personal/celestine_fernandes_systems-plus_com/Documents/MNH%20Project%20-%20Resume%20DB/51377_Vaibhav_Paygude.pdf?csf=1&web=1&e=fqYzDk
+          - generic [ref=e335]:
+            - button " Copy" [ref=e336] [cursor=pointer]:
+              - generic [ref=e337]: 
+              - text: Copy
+            - button " Export CSV" [ref=e403] [cursor=pointer]:
+              - generic [ref=e404]: 
+              - text: Export CSV
+          - generic [ref=e405]: 5 candidates
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - textbox "Paste a job description or describe the candidate you're looking for…" [ref=e53]
+          - generic [ref=e54]:
+            - button "" [ref=e55] [cursor=pointer]
+            - button "" [ref=e57] [cursor=pointer]
+        - paragraph [ref=e59]:
+          - generic [ref=e60]: Ctrl
+          - text: +
+          - generic [ref=e61]: Enter
+          - text: to send ·
+          - generic [ref=e62]: Enter
+          - text: for new line
+  - generic [ref=e407]:
+    - generic [ref=e408]: 
+    - generic [ref=e409]: Candidates loaded.
